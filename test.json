@@ -666,6 +666,17 @@
     "wyjasnienie": "ATC - Air Traffic Control, Służby Kontroli Ruchu Lotniczego, to: ATC jest to służba ustanowiona w celu zapobiegania zderzeniom między statkami powietrznymi, zarówno w locie, jak i na lotniskach, oraz w celu utrzymania uporządkowanego przepływu ruchu lotniczego i jego usprawnienia. ❗W skrócie, ATC odpowiada za bezpieczne i efektywne zarządzanie ruchem lotniczym w przestrzeni powietrznej i na lotniskach."
   },
   {
+    "pytanie": "Gdy dwa statki powietrzne zbliżają się do siebie na kierunkach przeciwnych lub prawie przeciwnych i grozi to niebezpieczeństwem zdarzenia, pilot dowódca każdego z nich zmienia swój kurs w którą stronę?",
+    "odpowiedzi": {
+      "a": "W gół",
+      "b": "W prawo",
+      "c": "W górę",
+      "d": "W lewo"
+    },
+    "poprawna_odpowiedz": "b",
+    "wyjasnienie": "Zawsze w prawo 🙂 ╰┈➤"
+  },
+  {
     "pytanie": "Badania lekarkie są obowiązkowe dla pilota BSP:",
     "odpowiedzi": {
       "a": "Żadne z powyższych, ponieważ pilot jest odpowiedzialny za swój stan zdrowia",
