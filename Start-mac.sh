@@ -1,7 +1,16 @@
 #!/bin/zsh
 
-# Użyj prawidłowej ścieżki do pliku JSON i upewnij się, że zawiera poprawny format jednolinijkowy.
-quiz=$(cat /Volumes/APFS/__dron/____Program-Egzamin-My/testEgzamin/test.json)
+# Użyj prawidłowej ścieżki do pliku JSON i upewnij się, że zawiera poprawny format jednolinijkowy
+# quiz=$(cat /Volumes/testEgzamin/test.json)
+
+# $(pwd) zwraca ścieżkę bieżącego katalogu roboczego
+# quiz=$(cat "$(pwd)/test.json")
+
+# ${BASH_SOURCE[0]} zwraca ścieżkę do bieżącego skryptu
+quiz=$(cat "$(dirname "${BASH_SOURCE[0]}")/test.json")
+
+
+
 
 length=$(jq length <<< "$quiz")
 correct=0

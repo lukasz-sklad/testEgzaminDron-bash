@@ -29,7 +29,8 @@
       "c": "122",
       "d": "997"
     },
-    "poprawna_odpowiedz": "a"
+    "poprawna_odpowiedz": "a",
+    "wyjasnienie": "112 w całej Europie, 997 - POLICJA"
   },
   {
     "pytanie": "Za bezpieczeństwo lotu od startu do lądowania BSP odpowiada:",
@@ -50,18 +51,8 @@
       "c": "PAŻP",
       "d": "EASA"
     },
-    "poprawna_odpowiedz": "a"
-  },
-  {
-    "pytanie": "Jaki jest europejski numer alarmowy?",
-    "odpowiedzi": {
-      "a": "Służby techniczne",
-      "b": "Służba informacji Lotniczej",
-      "c": "Zarządzanie Przestrzenią Powietrzną",
-      "d": "Służba kontroli lotniska"
-    },
-    "poprawna_odpowiedz": "d",
-    "wyjasnienie": "To pytanie jest trochę podchwytliwe! Pamiętaj, że pytaliśmy o europejski numer alarmowy w poprzednim pytaniu. Tutaj sprawdzamy Twoją czujność. Prawidłowa odpowiedź to 'Służba kontroli lotniska' jako jedna z opcji."
+    "poprawna_odpowiedz": "a",
+    "wyjasnienie": "Poprawną odpowiedzią powino być Straż Graniczną. Odpowiedź FIS"
   },
   {
     "pytanie": "Przestrzeń powietrzna dzieli się na:",
@@ -72,7 +63,7 @@
       "d": "północną i południową"
     },
     "poprawna_odpowiedz": "c",
-    "wyjasnienie": "Podstawowy podział przestrzeni powietrznej uwzględnia, czy ruch lotniczy jest w niej kontrolowany przez odpowiednie służby, czy też nie."
+    "wyjasnienie": "Podstawowy podział przestrzeni powietrznej uwzględnia, czy ruch lotniczy jest w niej kontrolowany przez odpowiednie służby, czy też nie. C i D - kontrolowana, G - niekotrolowana (GDN-FL095) ok. 3 km, ok 9500 stóp"
   },
   {
     "pytanie": "Z jakiej chmury pada grad?",
@@ -82,7 +73,8 @@
       "c": "Cu",
       "d": "Cb"
     },
-    "poprawna_odpowiedz": "d"
+    "poprawna_odpowiedz": "d",
+    "wyjasnienie": "Cb - Cumulonimbus, Rodzai chmur jest 10, warstw 3 (piętro niskie, średnie, wysokie)"
   },
   {
     "pytanie": "W sytuacji niebezpiecznej, gdy dwa SP lecą na siebie czołowo, dowódcy SP powinni wykonać uniki:",
@@ -113,7 +105,7 @@
       "d": "kompas"
     },
     "poprawna_odpowiedz": "a",
-    "wyjasnienie": "Barametr mierzy ciśnienie atmosferyczne, które zmienia się wraz z wysokością, umożliwiając dronowi utrzymanie stałego poziomu lotu."
+    "wyjasnienie": "Barametr mierzy ciśnienie atmosferyczne, które zmienia się wraz z wysokością, umożliwiając dronowi utrzymanie stałego poziomu lotu. Przypominajka 😲 Akcelerometr-przyspieszenie liniowe, żyroskop-przyspieszenie kątowe, kompas-magnetrometr, 🤔 1013,25 hPa 760mmHg, malała 0.65℃ na 100 m do góry, 0,65℃/100m lub 6,5℃/1000m"
   },
   {
     "pytanie": "Oznaczenie “P” na pakiecie LiPo mówi o:",
@@ -123,7 +115,8 @@
       "c": "podwyższonym poziomie prądu maksymalnego rozładowania",
       "d": "pakiecie głębokiego rozładowania"
     },
-    "poprawna_odpowiedz": "a"
+    "poprawna_odpowiedz": "a",
+    "wyjasnienie": "P (równolegle)=parallel >pojemność, S (szeregowe)=serial >napięcie, 🤔 3S 12.6V, naładowana 4.2V (+0.5V), napięcie nominalne 3.7V, rozładowane ogniwo 3.2V (-0.5V)"
   },
   {
     "pytanie": "Od czego zależy siła nośśna?",
@@ -144,7 +137,7 @@
       "d": "system pozwalający na wykonywanie lotów autonomicznych"
     },
     "poprawna_odpowiedz": "a",
-    "wyjasnienie": "Failsafe to kluczowy system bezpieczeństwa, który automatycznie reaguje w sytuacji awaryjnej, takiej jak utrata sygnału z kontrolera."
+    "wyjasnienie": "Failsafe to kluczowy system bezpieczeństwa, który automatycznie reaguje w sytuacji awaryjnej, takiej jak utrata sygnału z kontrolera.  RTH 🏠, zawis ✈️, lądowanie 🛬 lub RTH 💫, Hower 🛸, lądowanie 🛩️"
   },
   {
     "pytanie": "Kiedy należy balansować pakiety LiPo?",
@@ -155,7 +148,7 @@
       "d": "nie należy ich balansować"
     },
     "poprawna_odpowiedz": "a",
-    "wyjasnienie": "Balansowanie pakietów LiPo po każdym ładowaniu zapewnia dłuższą żywotność baterii i bezpieczniejsze użytkowanie."
+    "wyjasnienie": "Balansowanie pakietów LiPo po każdym ładowaniu zapewnia dłuższą żywotność baterii i bezpieczniejsze użytkowanie. Po prostu wyrównujemy napięcie między celami 🔋🔋🔋"
   },
   {
     "pytanie": "Co to jest MTOM?",
@@ -165,7 +158,8 @@
       "c": "maksymalny poziom przelotu",
       "d": "minimalna masa startowa"
     },
-    "poprawna_odpowiedz": "a"
+    "poprawna_odpowiedz": "a",
+    "wyjasnienie": "Jest określony przez producenta lub konstruktora, znajdziemy go w instrukcji"
   },
   {
     "pytanie": "Skrót BVLOS wskazuje na loty:",
@@ -175,7 +169,8 @@
       "c": "z pierwszej osoby",
       "d": "Visual Line Of Sight"
     },
-    "poprawna_odpowiedz": "b"
+    "poprawna_odpowiedz": "b",
+    "wyjasnienie": "BVLOS (bez obserwatora) 2 km, w zasięgu wzroku VLOS aż widać drona 🙂 okiem nie uzbrojonym"
   },
   {
     "pytanie": "Do zniszczenia lub unieruchomienia BSP albo przejęcia kontroli nad jego lotem, może dojść przez “służby mundurowe”, kiedy przebieg lotu lub działanie BSP i pilota:",
