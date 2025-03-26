@@ -1,0 +1,634 @@
+[
+  {
+    "pytanie": "Co to jest ATC?",
+    "odpowiedzi": {
+      "a": "Służba kontroli obszaru",
+      "b": "Służba Kontroli Ruchu Lotniczego",
+      "c": "Służba kontroli zbiżania",
+      "d": "Służba kontroli lotniska"
+    },
+    "poprawna_odpowiedz": "b",
+    "wyjasnienie": "ATC (Air Traffic Control) to Służba Kontroli Ruchu Lotniczego, która odpowiada za bezpieczne i uporządkowane zarządzanie ruchem statków powietrznych."
+  },
+  {
+    "pytanie": "Kto odpowiada za stan techniczny drona?",
+    "odpowiedzi": {
+      "a": "pilot/operator BSP",
+      "b": "TWR",
+      "c": "FIS",
+      "d": "ULC"
+    },
+    "poprawna_odpowiedz": "a",
+    "wyjasnienie": "Pilot lub operator Bezzałogowego Statku Powietrznego (BSP) jest odpowiedzialny za upewnienie się, że dron jest w dobrym stanie technicznym przed każdym lotem."
+  },
+  {
+    "pytanie": "Jaki jest europejski numer alarmowy?",
+    "odpowiedzi": {
+      "a": "112",
+      "b": "996",
+      "c": "122",
+      "d": "997"
+    },
+    "poprawna_odpowiedz": "a"
+  },
+  {
+    "pytanie": "Za bezpieczeństwo lotu od startu do lądowania BSP odpowiada:",
+    "odpowiedzi": {
+      "a": "pilot BSP",
+      "b": "Inspektor bezpieczeństwa lotów",
+      "c": "pracownik FIS",
+      "d": "kontroler ruchu lotniczego"
+    },
+    "poprawna_odpowiedz": "a",
+    "wyjasnienie": "Ostateczną odpowiedzialność za bezpieczeństwo lotu BSP ponosi zawsze pilot."
+  },
+  {
+    "pytanie": "Lot BSP w strefie identyfikacji obrony powietrznej (ADIZ) jest możliwy po skontaktowaniu się z:",
+    "odpowiedzi": {
+      "a": "FIS",
+      "b": "ULC",
+      "c": "PAŻP",
+      "d": "EASA"
+    },
+    "poprawna_odpowiedz": "a"
+  },
+  {
+    "pytanie": "Jaki jest europejski numer alarmowy?",
+    "odpowiedzi": {
+      "a": "Służby techniczne",
+      "b": "Służba informacji Lotniczej",
+      "c": "Zarządzanie Przestrzenią Powietrzną",
+      "d": "Służba kontroli lotniska"
+    },
+    "poprawna_odpowiedz": "d",
+    "wyjasnienie": "To pytanie jest trochę podchwytliwe! Pamiętaj, że pytaliśmy o europejski numer alarmowy w poprzednim pytaniu. Tutaj sprawdzamy Twoją czujność. Prawidłowa odpowiedź to 'Służba kontroli lotniska' jako jedna z opcji."
+  },
+  {
+    "pytanie": "Przestrzeń powietrzna dzieli się na:",
+    "odpowiedzi": {
+      "a": "państwową i cywilną",
+      "b": "lądową i morską",
+      "c": "kontrolowaną i niekontrolowaną",
+      "d": "północną i południową"
+    },
+    "poprawna_odpowiedz": "c",
+    "wyjasnienie": "Podstawowy podział przestrzeni powietrznej uwzględnia, czy ruch lotniczy jest w niej kontrolowany przez odpowiednie służby, czy też nie."
+  },
+  {
+    "pytanie": "Z jakiej chmury pada grad?",
+    "odpowiedzi": {
+      "a": "St",
+      "b": "Ci",
+      "c": "Cu",
+      "d": "Cb"
+    },
+    "poprawna_odpowiedz": "d"
+  },
+  {
+    "pytanie": "W sytuacji niebezpiecznej, gdy dwa SP lecą na siebie czołowo, dowódcy SP powinni wykonać uniki:",
+    "odpowiedzi": {
+      "a": "każdy w prawo",
+      "b": "jeden w prawo drugi w dół",
+      "c": "każdy w lewo",
+      "d": "jeden w lewo drugi w prawo"
+    },
+    "poprawna_odpowiedz": "a"
+  },
+  {
+    "pytanie": "Prze kogo powoływany jest niezależny organ PKBWL?",
+    "odpowiedzi": {
+      "a": "prezes ULC",
+      "b": "prezes PAŻP",
+      "c": "ministra właściwego do spraw transportu",
+      "d": "premiera"
+    },
+    "poprawna_odpowiedz": "c"
+  },
+  {
+    "pytanie": "Który z wymienionych czujników pozwala na utrzymanie drona na stałej wysokości?",
+    "odpowiedzi": {
+      "a": "barametr",
+      "b": "akcelerometr",
+      "c": "żyroskop",
+      "d": "kompas"
+    },
+    "poprawna_odpowiedz": "a",
+    "wyjasnienie": "Barametr mierzy ciśnienie atmosferyczne, które zmienia się wraz z wysokością, umożliwiając dronowi utrzymanie stałego poziomu lotu."
+  },
+  {
+    "pytanie": "Oznaczenie “P” na pakiecie LiPo mówi o:",
+    "odpowiedzi": {
+      "a": "występowaniu połączenie równoległego",
+      "b": "stałym prądzie rozładowania równym pojemności",
+      "c": "podwyższonym poziomie prądu maksymalnego rozładowania",
+      "d": "pakiecie głębokiego rozładowania"
+    },
+    "poprawna_odpowiedz": "a"
+  },
+  {
+    "pytanie": "Od czego zależy siła nośśna?",
+    "odpowiedzi": {
+      "a": "różnicy ciśnień na skrzydle",
+      "b": "gęstości powietrza",
+      "c": "profilu i powierzchni skrzydła",
+      "d": "wszystkie z powyższych"
+    },
+    "poprawna_odpowiedz": "d"
+  },
+  {
+    "pytanie": "Co to jest “failsafe”?",
+    "odpowiedzi": {
+      "a": "system, który nakazuje wykonać pewne czynności dronowi w przypadku utraty łączności z nadajnikiem",
+      "b": "zasady wykonywania lotów w strefach",
+      "c": "procedury przygotowania SP do startu",
+      "d": "system pozwalający na wykonywanie lotów autonomicznych"
+    },
+    "poprawna_odpowiedz": "a",
+    "wyjasnienie": "Failsafe to kluczowy system bezpieczeństwa, który automatycznie reaguje w sytuacji awaryjnej, takiej jak utrata sygnału z kontrolera."
+  },
+  {
+    "pytanie": "Kiedy należy balansować pakiety LiPo?",
+    "odpowiedzi": {
+      "a": "po każdym ładowaniu",
+      "b": "tylko przy pierwszym ładowaniu",
+      "c": "tylko co 20 cykli ładowania",
+      "d": "nie należy ich balansować"
+    },
+    "poprawna_odpowiedz": "a",
+    "wyjasnienie": "Balansowanie pakietów LiPo po każdym ładowaniu zapewnia dłuższą żywotność baterii i bezpieczniejsze użytkowanie."
+  },
+  {
+    "pytanie": "Co to jest MTOM?",
+    "odpowiedzi": {
+      "a": "Maximum Take Off Mass",
+      "b": "Minimum Take Off Mass",
+      "c": "maksymalny poziom przelotu",
+      "d": "minimalna masa startowa"
+    },
+    "poprawna_odpowiedz": "a"
+  },
+  {
+    "pytanie": "Skrót BVLOS wskazuje na loty:",
+    "odpowiedzi": {
+      "a": "w zasięgu wzroku",
+      "b": "poza zasięgiem wzroku",
+      "c": "z pierwszej osoby",
+      "d": "Visual Line Of Sight"
+    },
+    "poprawna_odpowiedz": "b"
+  },
+  {
+    "pytanie": "Do zniszczenia lub unieruchomienia BSP albo przejęcia kontroli nad jego lotem, może dojść przez “służby mundurowe”, kiedy przebieg lotu lub działanie BSP i pilota:",
+    "odpowiedzi": {
+      "a": "zagraża zdrowiu lub życiu osób albo stwarza zagrożenie dla chronionych urządzeń, obiektów lub obszarów",
+      "b": "zakłóca przebieg imprezy masowej lub zagraża bezpieczeństwu jej uczestników",
+      "c": "stwarza uzasadnione podejrzenie, że może zostać użyty jako środek ataku terrorystycznego",
+      "d": "wszystkie odpowiedzi są prawidłowe"
+    },
+    "poprawna_odpowiedz": "d"
+  },
+  {
+    "pytanie": "Jak zachowuje się BSP w przypadku awarii?",
+    "odpowiedzi": {
+      "a": "spada idealnie pionowo w dół w przypadku MR",
+      "b": "zawsze spada w niewielkiej odległości",
+      "c": "zawsze spada pod kątem 45 stopni",
+      "d": "w zależności od sytuacji oraz rodzaju może spaść w dość dużej odległości od miejsca awarii"
+    },
+    "poprawna_odpowiedz": "d"
+  },
+  {
+    "pytanie": "Zadaniem PKBWL jest:",
+    "odpowiedzi": {
+      "a": "podwyższenie bezpieczeństwa w lotnictwie",
+      "b": "wskazanie winnego wypadku lotniczego",
+      "c": "wprowadzenie nowych przepisów prawa lotniczego",
+      "d": "obsługa administracyjna prezesa ULC"
+    },
+    "poprawna_odpowiedz": "a",
+    "wyjasnienie": "Państwowa Komisja Badania Wypadków Lotniczych (PKBWL) zajmuje się badaniem przyczyn i okoliczności wypadków lotniczych, aby zapobiegać im w przyszłości."
+  },
+  {
+    "pytanie": "Tryb niskiej prędkości w kategorii open charakteryzuje się prędkością BSP",
+    "odpowiedzi": {
+      "a": "nie jest określona",
+      "b": "1 m/s",
+      "c": "3 m/s",
+      "d": "5 m/s"
+    },
+    "poprawna_odpowiedz": "c"
+  },
+  {
+    "pytanie": "Wśród manewrów awaryjnych można wymienić:",
+    "odpowiedzi": {
+      "a": "zejście spiralą z dużej wysokości",
+      "b": "unik zmieniający kierunek lotu",
+      "c": "wszystkie odpowiedzi są prawidłowe",
+      "d": "awaryjne wyłączenie silników"
+    },
+    "poprawna_odpowiedz": "c"
+  },
+  {
+    "pytanie": "Kiedy konfigurujemy system FailSafe?",
+    "odpowiedzi": {
+      "a": "gdy nie używaliśmy drona przez dłuższy czas",
+      "b": "gdy zmienialiśmy miejsce lotów",
+      "c": "tylko przy pierwszym uruchomieniu",
+      "d": "gdy wymieniliśmy baterię w celu dalszego lotu"
+    },
+    "poprawna_odpowiedz": "b"
+  },
+  {
+    "pytanie": "Lot na zbyt dużą odległość ma wpływ na:",
+    "odpowiedzi": {
+      "a": "pogorszenie postrzegania orientacji BSP",
+      "b": "pogorszenie łączności między TX/RX",
+      "c": "pogorszenie postrzegania nad jakim punktem aktualnie znajduje się BSP",
+      "d": "wszystkie odpowiedzi są prawidłowe"
+    },
+    "poprawna_odpowiedz": "d"
+  },
+  {
+    "pytanie": "Jakie elementy i podzespoły powinny zostać skontrolowane przez pilota po zakończeniu lotu?",
+    "odpowiedzi": {
+      "a": "pakiet LiPo",
+      "b": "temperatura silników",
+      "c": "ogólny stan BSP",
+      "d": "wszystkie odpowiedzi są prawidłowe"
+    },
+    "poprawna_odpowiedz": "d"
+  },
+  {
+    "pytanie": "Wskaż dobrą praktykę związaną z wykonywaniem lotów przy pomocy BSP",
+    "odpowiedzi": {
+      "a": "lot do momentu uzyskania krytycznego poziomu baterii",
+      "b": "loty ze znaczną prędkością",
+      "c": "loty bez obserwatora",
+      "d": "wpieranie się Check-Listą"
+    },
+    "poprawna_odpowiedz": "d",
+    "wyjasnienie": "Korzystanie z Check-Listy przed, w trakcie i po locie to podstawa bezpiecznej eksploatacji BSP."
+  },
+  {
+    "pytanie": "Warunkiem eksploatacji systemu BSP w kategorii szczególnej jest:",
+    "odpowiedzi": {
+      "a": "noszenie kamizelki ostrzegawczej lub odzieży w inny sposób identyfikującej pilota BSP",
+      "b": "wszystkie odpowiedzi są prawidłowe",
+      "c": "umieszczenie w widocznym miejscu numeru operatora",
+      "d": "przestrzeganie zaleceń ULC"
+    },
+    "poprawna_odpowiedz": "b"
+  },
+  {
+    "pytanie": "Co oznacza FIR EPWW?",
+    "odpowiedzi": {
+      "a": "służba informacji powietrznej RP",
+      "b": "zbiór publikacji lotniczych",
+      "c": "strefa nad lotniskiem wojskowym w Warszawie",
+      "d": "rejon informacji powietrznej Polskiej przestrzeni Powietrznej"
+    },
+    "poprawna_odpowiedz": "d"
+  },
+  {
+    "pytanie": "Hover, to tryb w którym:",
+    "odpowiedzi": {
+      "a": "dron leci na północ",
+      "b": "dron leci do punktu startu",
+      "c": "dron ląduje pod siebie",
+      "d": "dron robi zawis"
+    },
+    "poprawna_odpowiedz": "d"
+  },
+  {
+    "pytanie": "Aby dron mógł określić swoją pozycję potrzebny jest sygnał z co najmniej:",
+    "odpowiedzi": {
+      "a": "sześciu satelitów",
+      "b": "jednego satelity",
+      "c": "dwóch satelitów",
+      "d": "czterech satelitów"
+    },
+    "poprawna_odpowiedz": "d"
+  },
+  {
+    "pytanie": "Która z zapisanych poniżej wartości opisuje pojemność akumulatora?:",
+    "odpowiedzi": {
+      "a": "25 C",
+      "b": "12 V",
+      "c": "2500 mAh",
+      "d": "3S"
+    },
+    "poprawna_odpowiedz": "c"
+  },
+  {
+    "pytanie": "Co oznacza funkcja ładowania STORAGE?:",
+    "odpowiedzi": {
+      "a": "wyrównanie napięcia w celach do 4.2V",
+      "b": "przygotowanie pakietu do spoczynku w napięciu 3.7V na celę",
+      "c": "balansowanie cel do minimalnego napięcia",
+      "d": "ładowanie pakietu do 100 procent"
+    },
+    "poprawna_odpowiedz": "b",
+    "wyjasnienie": "Funkcja STORAGE służy do naładowania baterii do napięcia optymalnego do przechowywania, co przedłuża jej żywotność."
+  },
+  {
+    "pytanie": "W ramach NSTS-05 można wykonywać loty:",
+    "odpowiedzi": {
+      "a": "VLOS do 4kg",
+      "b": "VLOS do 25 kg (MR)",
+      "c": "VLOS i BVLOS do 4 kg",
+      "d": "VLOS i BVLOS do 25 kg (MR)"
+    },
+    "poprawna_odpowiedz": "c"
+  },
+  {
+    "pytanie": "Model sera szwajcarskiego zakłada, że aby doszło do wypadku:",
+    "odpowiedzi": {
+      "a": "wystarczy jeden błąd mechanika lotniczego",
+      "b": "wystarczy jeden błąd członka załogi",
+      "c": "musi dojść do kilku błędów na różnych szczeblach",
+      "d": "wystarczy jedna “dziura” w danym szczeblu, aby doszło do wypadku lotniczego"
+    },
+    "poprawna_odpowiedz": "c",
+    "wyjasnienie": "Model sera szwajcarskiego ilustruje, że wypadki lotnicze są zwykle wynikiem kumulacji wielu czynników i błędów na różnych poziomach systemu."
+  },
+  {
+    "pytanie": "Skrót STS wskazuje na:",
+    "odpowiedzi": {
+      "a": "europejski scenariusz standardowy wykorzystywany w kategorii otwartej",
+      "b": "krajowy scenariusz standardowy wykorzystywany w kategorii otwartej",
+      "c": "europejski scenariusz standardowy wykorzystywany w kategorii szczególnej",
+      "d": "krajowy scenariusz standardowy wykorzystywany w kategorii szczególnej"
+    },
+    "poprawna_odpowiedz": "c"
+  },
+  {
+    "pytanie": "Kategoria otwarta charakteryzuje się:",
+    "odpowiedzi": {
+      "a": "niskim ryzykiem wykonywania lotów",
+      "b": "wysokim ryzykiem wykonywania lotów",
+      "c": "możliwością przewozu materiałów niebezpiecznych",
+      "d": "posiadania instrukcji operacyjnej posiadanej przez pilota BSP"
+    },
+    "poprawna_odpowiedz": "a"
+  },
+  {
+    "pytanie": "Zaznacz pełną nazwę strefy ATZ:",
+    "odpowiedzi": {
+      "a": "strefa ruchu lotniskowego",
+      "b": "strefa kontrolowana lotniska",
+      "c": "strefa nad lotniskowa aeroklubów",
+      "d": "strefa ruchu kontrolowanego"
+    },
+    "poprawna_odpowiedz": "a"
+  },
+  {
+    "pytanie": "Warunkiem wykonania lotów VLOS w strefie ATZ jest:",
+    "odpowiedzi": {
+      "a": "uzyskanie zgody od FIS",
+      "b": "uzyskanie zgody od PAŻP",
+      "c": "uzyskanie zgody od zarządzającego lotniskiem",
+      "d": "lot nie jest możliwy dla bezzałogoeych statków powietrznych"
+    },
+    "poprawna_odpowiedz": "c"
+  },
+  {
+    "pytanie": "Warunkiem wykonywania lotów VLOS w strefie RMZ jest:",
+    "odpowiedzi": {
+      "a": "uzyskanie zgody od FIS",
+      "b": "uzyskanie zgody PAŻP",
+      "c": "uzyskanie zgody tylko od zarządzającego lotniskiem",
+      "d": "poinformowanie służby informacji powietrznej"
+    },
+    "poprawna_odpowiedz": "d"
+  },
+  {
+    "pytanie": "Warunkiem wykonywania lotów VLOS w strefie DRA-R (CTR) jest:",
+    "odpowiedzi": {
+      "a": "uzyskanie zgody od FIS",
+      "b": "uzyskanie zgody od PAŻP i ATC",
+      "c": "uzyskanie zgody tylko od zarządzającego lotniskiem",
+      "d": "tylko poinformowanie służby informacji powietrznej"
+    },
+    "poprawna_odpowiedz": "b"
+  },
+  {
+    "pytanie": "Lot niesprawnym technicznie dronem jest możliwy:",
+    "odpowiedzi": {
+      "a": "gdy uszkodzenie jest niewielkie",
+      "b": "gdy wykonujemy lot komercyjny",
+      "c": "gdy posiadamy polisę OC",
+      "d": "jest zabroniony"
+    },
+    "poprawna_odpowiedz": "d",
+    "wyjasnienie": "Eksploatacja niesprawnego technicznie drona jest niedozwolona i stwarza poważne zagrożenie."
+  },
+  {
+    "pytanie": "Kiedy ma miejsce wypadek lotniczy:",
+    "odpowiedzi": {
+      "a": "Statek Powietrzny zaginoł lub dostęp do niego jest niemożliwy",
+      "b": "nastąpiło zniszczenie lub uszkodzenie konstrukcji SP",
+      "c": "jakaś osoba doznała obrażeń ciała ze skutkiem śmiertelnym lub poważnych obrażeń ciała",
+      "d": "wszystkie odpowiedzi są prawidłowe"
+    },
+    "poprawna_odpowiedz": "d"
+  },
+  {
+    "pytanie": "Który organ zarządza ruchem lotniczym w FIR EPWW?:",
+    "odpowiedzi": {
+      "a": "PAŻP",
+      "b": "ULC",
+      "c": "FIS",
+      "d": "zarządca strefy"
+    },
+    "poprawna_odpowiedz": "a"
+  },
+  {
+    "pytanie": "Który dokument określa zasady udostępniania na rynku oraz swobodnego przepływu w UE bezzałogowych systemów powietrznych przeznaczonych do eksploatacji w ramach kategorii “otwartej” i dodatkowych elementów służących zdalnej identyfikacji?",
+    "odpowiedzi": {
+      "a": "Rozporządzenie delegowane Komisji (UE) 2019/945 z dnia 12 marca 2019r.",
+      "b": "Rozporządzenie wykonawcze Komisji (UE) 2019/947 z dnia 24 maja 2019r.",
+      "c": "Ustawa Prawo Lotnicze",
+      "d": "Rozporządzenie Ministra Transportu"
+    },
+    "poprawna_odpowiedz": "a"
+  },
+  {
+    "pytanie": "Co to jest EASA:",
+    "odpowiedzi": {
+      "a": "European Agency Safety Aviation",
+      "b": "European Air Safety Agency",
+      "c": "European Agency Space Aviation",
+      "d": "European Aviation Safety Agency"
+    },
+    "poprawna_odpowiedz": "d",
+    "wyjasnienie": "EASA to Europejska Agencja Bezpieczeństwa Lotniczego, odpowiedzialna za bezpieczeństwo lotnictwa cywilnego w Europie."
+  },
+  {
+    "pytanie": "AIP to:",
+    "odpowiedzi": {
+      "a": "Publikacja wydawana przez Państwo lub z jego upoważnienia",
+      "b": "Publikacja zawierająca informacje lotnicze o charakterze trwałym, istotne dla żeglugi powietrznej",
+      "c": "Zbiór informacji lotniczych",
+      "d": "Wszystkie z powyższych są prawidłowe",
+      "e": "Czasowy plan użytkowania przestrzeni powietrznej"
+    },
+    "poprawna_odpowiedz": "d"
+  },
+  {
+    "pytanie": "Jakie zadania należą do EASA:",
+    "odpowiedzi": {
+      "a": "Do jej głównych zadań należy zapewnienie bezpieczeństwa i ochrony środowiska w lotnictwie cywilnym w Europie."
+    },
+    "poprawna_odpowiedz": "a"
+  },
+  {
+    "pytanie": "PAŻP prowadzi rejestr:",
+    "odpowiedzi": {
+      "a": "Personelu lotniczego",
+      "b": "Statków powietrznych",
+      "c": "Przestrzeni powietrznej",
+      "d": "Lotnisk"
+    },
+    "poprawna_odpowiedz": "c"
+  },
+  {
+    "pytanie": "Incydenty/wypadki lotnicze zgłaszamy",
+    "odpowiedzi": {
+      "a": "Telefonicznie pod numer 112",
+      "b": "ECCAIRS 2",
+      "c": "Centralna baza zgłoszeń Urzędu lotnictwa Cywilnego (cbz.ulc.gov.pl)",
+      "d": "Telefonicznie do wieży najbliższego lotniska"
+    },
+    "poprawna_odpowiedz": "b"
+  },
+  {
+    "pytanie": "ULC rozwiń skrót:",
+    "odpowiedzi": {
+      "a": "Urząd latania cywilów",
+      "b": "Urząd cywilnego lotnictwa",
+      "c": "Urząd spraw cywilów",
+      "d": "Urząd lotnictwa cywilnego"
+    },
+    "poprawna_odpowiedz": "d"
+  },
+  {
+    "pytanie": "Wysokość maksymalna dla jakiej można latać w ramach NSTS-01:",
+    "odpowiedzi": {
+      "a": "150m AGL",
+      "b": "120 AGL",
+      "c": "W zależności od miejsca startu",
+      "d": "Bez ograniczeń"
+    },
+    "poprawna_odpowiedz": "b"
+  },
+  {
+    "pytanie": "W NSTS 05 można wykonywać loty:",
+    "odpowiedzi": {
+      "a": "VLOS, BSP do 25 kg",
+      "b": "BVLOS, BSP do 4kg",
+      "c": "VLOS, BSP do 4 kg",
+      "d": "BVLOS, BSP do 25 kg"
+    },
+    "poprawna_odpowiedz": "b"
+  },
+  {
+    "pytanie": "Dolna granica wieku dla pilota BSP:",
+    "odpowiedzi": {
+      "a": "14 lat",
+      "b": "16 lat",
+      "c": "15 lat",
+      "d": "18 lat"
+    },
+    "poprawna_odpowiedz": "b"
+  },
+  {
+    "pytanie": "Wykonując lot vlos lub bvlos bezzałogowcem większym niż 1 m",
+    "odpowiedzi": {
+      "a": "Lot wykonujemy na obszarze gęsto zaludnionym",
+      "b": "Nad obszarem nie kontrolowanym",
+      "c": "Nad obszarem kontrolowanym",
+      "d": "Lot wykonujemy na obszarem słabo zaludnionym"
+    },
+    "poprawna_odpowiedz": "c"
+  },
+  {
+    "pytanie": "Czy podczas lotów można przewozić materiały niebezpieczne",
+    "odpowiedzi": {
+      "a": "Można",
+      "b": "To zależy od okoliczności",
+      "c": "Tak",
+      "d": "Nie można przewozić materiałów niebezpiecznych"
+    },
+    "poprawna_odpowiedz": "d"
+  },
+  {
+    "pytanie": "Operacje z użyciem SBSP zgodnie z NSTS-01 wykonujemy:",
+    "odpowiedzi": {
+      "a": "według zasad VLOS",
+      "b": "Bez żadnego przygotowania",
+      "c": "Żadna z odpowiedzi nie jest prawidłowa",
+      "d": "Niezgodnie z instrukcją operacyjną"
+    },
+    "poprawna_odpowiedz": "a"
+  },
+  {
+    "pytanie": "Tryb niskiej prędkości charakteryzuje się prędkością BSP:",
+    "odpowiedzi": {
+      "a": "4 m/s",
+      "b": "5 m/s",
+      "c": "6 m/s",
+      "d": "3 m/s"
+    },
+    "poprawna_odpowiedz": "d"
+  },
+  {
+    "pytanie": "Czy w lotach w kategorii “szczególnej” wymagana jest instrukcja operacyjna:",
+    "odpowiedzi": {
+      "a": "nie ma takiej potrzeby",
+      "b": "Jest tylko zalecana w kategorii szczególnej lecz nie musisz jej posiadać",
+      "c": "Tak, tylko przy lotach w kategorii powyżej NSTS-01",
+      "d": "Tak, przy każdym scenariuszu NSTS"
+    },
+    "poprawna_odpowiedz": "c"
+  },
+  {
+    "pytanie": "Czy w locie FPV zachowujemy następujące warunki:",
+    "odpowiedzi": {
+      "a": "bezzałogowym statkiem powietrznym o masie startowej większej niż 4 kg",
+      "b": "do wysokości nie większej niż 60 m na poziomem terenu",
+      "c": "Do wysokości nie większej niż 50 m nad poziomem terenu",
+      "d": "w odległości poziomej nie większej niż 400 m od pilota"
+    },
+    "poprawna_odpowiedz": "c"
+  },
+  {
+    "pytanie": "Czy jest obowiązkowe ubezpieczenie OC dla pilota BSP:",
+    "odpowiedzi": {
+      "a": "Tylko przy lotach komercyjnych",
+      "b": "Nie ma na to przepisów",
+      "c": "Tak jest obowiązkowe",
+      "d": "Tylko dla lotów SBSP powyżej 20 kg"
+    },
+    "poprawna_odpowiedz": "d"
+  },
+  {
+    "pytanie": "Czy w kategorii szczególnej musimy zamieszczać numer operatora na ABSP:",
+    "odpowiedzi": {
+      "a": "W zależności o wyposażenia BSP",
+      "b": "Tak jest to obowiązek",
+      "c": "Nie ma takiej potrzeby",
+      "d": "W zależności od wykonywanej misji"
+    },
+    "poprawna_odpowiedz": "b"
+  },
+  {
+    "pytanie": "Badania lekarkie są obowiązkowe dla pilota BSP:",
+    "odpowiedzi": {
+      "a": "Żadne z powyższych, ponieważ pilot jest odpowiedzialny za swój stan zdrowia",
+      "b": "Trzeba oświadczyć o stanie swojego zdrowia w siedzibie ULC",
+      "c": "Konieczna jest konsultacja z Orzecznikiem",
+      "d": "Tak, oczywiście są one obowiązkowe"
+    },
+    "poprawna_odpowiedz": "a"
+  }
+]
