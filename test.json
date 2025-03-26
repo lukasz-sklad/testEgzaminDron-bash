@@ -359,10 +359,10 @@
   {
     "pytanie": "Kategoria otwarta charakteryzuje się:",
     "odpowiedzi": {
-      "a": "niskim ryzykiem wykonywania lotów",
-      "b": "wysokim ryzykiem wykonywania lotów",
-      "c": "możliwością przewozu materiałów niebezpiecznych",
-      "d": "posiadania instrukcji operacyjnej posiadanej przez pilota BSP"
+      "a": " niskim ryzykiem wykonywania lotów",
+      "b": " wysokim ryzykiem wykonywania lotów",
+      "c": " możliwością przewozu materiałów niebezpiecznych",
+      "d": " posiadania instrukcji operacyjnej posiadanej przez pilota BSP"
     },
     "poprawna_odpowiedz": "a"
   },
@@ -394,7 +394,8 @@
       "c": "uzyskanie zgody tylko od zarządzającego lotniskiem",
       "d": "poinformowanie służby informacji powietrznej"
     },
-    "poprawna_odpowiedz": "d"
+    "poprawna_odpowiedz": "d",
+    "wyjasnienie": "RMZ - Radio Communication Mandatory Zone - strefa obowiązkowej łączności"
   },
   {
     "pytanie": "Warunkiem wykonywania lotów VLOS w strefie DRA-R (CTR) jest:",
@@ -472,7 +473,10 @@
   {
     "pytanie": "Jakie zadania należą do EASA:",
     "odpowiedzi": {
-      "a": "Do jej głównych zadań należy zapewnienie bezpieczeństwa i ochrony środowiska w lotnictwie cywilnym w Europie."
+      "a": "Do jej głównych zadań należy zapewnienie bezpieczeństwa i ochrony środowiska w lotnictwie cywilnym w Europie.",
+      "b": "Dbanie o bezpieczeństwo całej Unii Europejskiej",
+      "c": "Do jej głównyc zadań należy zapewnienie bezpieczeństwa i ochrony środowiska w lotnictwie wojskowym w Europie",
+      "d": "Obrony Europy przed Rosją"
     },
     "poprawna_odpowiedz": "a"
   },
@@ -607,6 +611,17 @@
     "poprawna_odpowiedz": "d"
   },
   {
+    "pytanie": "Prze jaki system wykonujemy Check-in przed lotem BSP?",
+    "odpowiedzi": {
+      "a": "DroneTower (checkin.pansa.pl)",
+      "b": "NOTAM",
+      "c": "Drony.ulc.gov.pl",
+      "d": "UTM Pansa"
+    },
+    "poprawna_odpowiedz": "a",
+    "wyjasnienie": "DroneTower na stronie checkin.pansa.pl pobierzemy program to system teleinformatyczny (platforma) stworzona przez Polską Agencję Żeglugi Powietrznej (PANSA) dedykowany operatorom bezzałogowych statków powietrznych (BSP), umożliwiający m.in. sprawdzenie warunków wykonywania lotów, zgłaszanie zamiaru wykonania operacji lotniczych oraz dostęp do niezbędnych informacji lotniczych."
+  },
+  {
     "pytanie": "Czy w kategorii szczególnej musimy zamieszczać numer operatora na ABSP:",
     "odpowiedzi": {
       "a": "W zależności o wyposażenia BSP",
@@ -615,6 +630,40 @@
       "d": "W zależności od wykonywanej misji"
     },
     "poprawna_odpowiedz": "b"
+  },
+  {
+    "pytanie": "Co to jest NOTAM?",
+    "odpowiedzi": {
+      "a": "To krótka wiadomość tekstowa zawierająca informacje mające istotne znaczenie operacyjne, adresowana do personelu związanego z operacjami lotniczymi oraz służb ruchu lotniczego…",
+      "b": "Informacje o masie startowej",
+      "c": "Instrukcja obsługi",
+      "d": "Żadna z odpowiedzi nie jest poprawna",
+      "e": "Pilotów dronów nie obowiązują NOTAM"
+    },
+    "poprawna_odpowiedz": "a",
+    "wyjasnienie": "NOTAM to krótka tekstowa wiadomość, rozpowszechniana za pomocą środków telekomunikacyjnych, zawierająca informacje o ustanowieniu, stanie lub zmianach urządzeń lotniczych, służb, procedur 1  lub o niebezpieczeństwach, których znajomość we właściwym czasie jest niezbędna dla personelu związanego z operacjami lotniczymi."
+  },
+  {
+    "pytanie": "Co to jest TWR?",
+    "odpowiedzi": {
+      "a": "Służby techniczne",
+      "b": "Służba informacji Lotniczej",
+      "c": "Zarządzanie Przestrzenią Powietrzną",
+      "d": "Służba kontroli lotniska"
+    },
+    "poprawna_odpowiedz": "d",
+    "wyjasnienie": "TWR (Tower) to jednostka kontroli ruchu lotniczego zlokalizowana na lotnisku, odpowiedzialna za zapewnienie bezpiecznego i uporządkowanego ruchu statków powietrznych oraz pojazdów na polu manewrowym i w jego bezpośrednim sąsiedztwie."
+  },
+  {
+    "pytanie": "Co to jest ATC?",
+    "odpowiedzi": {
+      "a": "Służba kontroli obszaru",
+      "b": "Służba Kontroli Ruchu Lotniczego",
+      "c": "Służba kontroli zbiżania",
+      "d": "Służba kontroli lotniska"
+    },
+    "poprawna_odpowiedz": "b",
+    "wyjasnienie": "ATC - Air Traffic Control, Służby Kontroli Ruchu Lotniczego, to: ATC jest to służba ustanowiona w celu zapobiegania zderzeniom między statkami powietrznymi, zarówno w locie, jak i na lotniskach, oraz w celu utrzymania uporządkowanego przepływu ruchu lotniczego i jego usprawnienia. ❗W skrócie, ATC odpowiada za bezpieczne i efektywne zarządzanie ruchem lotniczym w przestrzeni powietrznej i na lotniskach."
   },
   {
     "pytanie": "Badania lekarkie są obowiązkowe dla pilota BSP:",
