@@ -46,6 +46,14 @@ Jasne! Możesz łatwo dodać więcej pytań do pliku `json.txt`. Pamiętaj tylko
 
 Super! Jeśli masz jakieś sugestie, pomysły na ulepszenia, albo znalazłeś błąd, śmiało otwieraj issue lub wysyłaj pull requesty! Każda pomoc jest mile widziana! 👍
 
+## Ważna uwaga! ⚠️
+
+Pamiętaj, że ten test ma charakter edukacyjny i pomaga w przygotowaniu do egzaminu na drona organizowanego przez Urząd Lotnictwa Cywilnego (ULC). **Pytania zawarte w tym skrypcie nie są identyczne z pytaniami, które pojawią się na oficjalnym egzaminie ULC.**
+
+Jednakże, treść pytań w naszym skrypcie opiera się na wiedzy wymaganej do zdania egzaminu ULC. Zatem, jeśli dobrze poradzisz sobie z tym testem, istnieje duże prawdopodobieństwo, że z powodzeniem zdasz również egzamin ULC.
+
+Miej na uwadze, że ULC może zmieniać pytania egzaminacyjne, a ich sformułowania mogą się różnić. Nasz skrypt ma na celu sprawdzenie Twojej wiedzy z zakresu niezbędnego do uzyskania uprawnień.
+
 ## Licencja 📜
 
 Ten skrypt jest udostępniany na licencji [GNU GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html). Możesz zapoznać się z pełną treścią licencji pod podanym linkiem. W skrócie, licencja ta pozwala na swobodne używanie, rozpowszechnianie i modyfikowanie oprogramowania, pod warunkiem zachowania pewnych warunków, w tym udostępniania kodu źródłowego i informowania o zmianach. 😉
@@ -54,4 +62,4 @@ Ten skrypt jest udostępniany na licencji [GNU GPL v3.0](https://www.gnu.org/lic
 
 Masz pytania? Chcesz się podzielić wrażeniami? Śmiało pisz! dev@lmk.one.
 
-**Powodzenia na egzaminie! Trzymam kciuki! 🤞✈️**
+**Życzymy powodzenia na oficjalnym egzaminie! 🍀 Trzymam kciuki! 🤞✈️**
