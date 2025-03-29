@@ -84,17 +84,19 @@
       "c": "każdy w lewo",
       "d": "jeden w lewo drugi w prawo"
     },
-    "poprawna_odpowiedz": "a"
+    "poprawna_odpowiedz": "a",
+    "wyjasnienie": ""
   },
   {
-    "pytanie": "Prze kogo powoływany jest niezależny organ PKBWL?",
+    "pytanie": "Przez kogo powoływany jest niezależny organ PKBWL?",
     "odpowiedzi": {
       "a": "prezes ULC",
       "b": "prezes PAŻP",
       "c": "ministra właściwego do spraw transportu",
       "d": "premiera"
     },
-    "poprawna_odpowiedz": "c"
+    "poprawna_odpowiedz": "c",
+    "wyjasnienie": ""
   },
   {
     "pytanie": "Który z wymienionych czujników pozwala na utrzymanie drona na stałej wysokości?",
@@ -126,7 +128,19 @@
       "c": "profilu i powierzchni skrzydła",
       "d": "wszystkie z powyższych"
     },
-    "poprawna_odpowiedz": "d"
+    "poprawna_odpowiedz": "d",
+    "wyjasnienie": ""
+  },
+  {
+    "pytanie": "Deszcz przechłodzony występuje,gdy",
+    "odpowiedzi": {
+      "a": "Temperatura cząsteczek wody jest wyższa od 0°C",
+      "b": "Temperatura cząsteczek wody jest niższa od 0°C z zachowaniem stanu ciekłego",
+      "c": "Temperatura cząsteczek wody jest wyższa od temperatury powietrza otaczającego",
+      "d": "Temperatura cząsteczek jest taka sama jak temperatura powietrza otaczającego"
+    },
+    "poprawna_odpowiedz": "b",
+    "wyjasnienie": "Deszcz przechłodzony, inaczej marznący deszcz, to rodzaj opadu atmosferycznego, który występuje, gdy krople deszczu mają temperaturę poniżej 0°C (są przechłodzone), ale pozostają w stanie ciekłym. Krótko mówiąc, deszcz przechłodzony to deszcz, który zamarza natychmiast po uderzeniu w powierzchnię o temperaturze poniżej zera, tworząc niebezpieczną warstwę lodu. Tworzy gołoledź, powoduje uszkodzenia, utrudnia podróżowanie. Narastający lód może obciążać i łamać gałęzie drzew, a także powodować zerwanie linii energetycznych i telekomunikacyjnych."
   },
   {
     "pytanie": "Co to jest “failsafe”?",
@@ -180,7 +194,8 @@
       "c": "stwarza uzasadnione podejrzenie, że może zostać użyty jako środek ataku terrorystycznego",
       "d": "wszystkie odpowiedzi są prawidłowe"
     },
-    "poprawna_odpowiedz": "d"
+    "poprawna_odpowiedz": "d",
+    "wyjasnienie": ""
   },
   {
     "pytanie": "Jak zachowuje się BSP w przypadku awarii?",
@@ -190,7 +205,8 @@
       "c": "zawsze spada pod kątem 45 stopni",
       "d": "w zależności od sytuacji oraz rodzaju może spaść w dość dużej odległości od miejsca awarii"
     },
-    "poprawna_odpowiedz": "d"
+    "poprawna_odpowiedz": "d",
+    "wyjasnienie": ""
   },
   {
     "pytanie": "Zadaniem PKBWL jest:",
@@ -211,7 +227,8 @@
       "c": "3 m/s",
       "d": "5 m/s"
     },
-    "poprawna_odpowiedz": "c"
+    "poprawna_odpowiedz": "c",
+    "wyjasnienie": "Loty (w kategorii A2, klasa drona C2) min. 30 m w poziomie od ludzi, 5m w trybie niskiej prędkości 3m/s VLOS"
   },
   {
     "pytanie": "Wśród manewrów awaryjnych można wymienić:",
@@ -221,7 +238,8 @@
       "c": "wszystkie odpowiedzi są prawidłowe",
       "d": "awaryjne wyłączenie silników"
     },
-    "poprawna_odpowiedz": "c"
+    "poprawna_odpowiedz": "c",
+    "wyjasnienie": "Zejście spiralą, unik w prawo, awaryjne wyłączenie silników"
   },
   {
     "pytanie": "Kiedy konfigurujemy system FailSafe?",
@@ -231,7 +249,8 @@
       "c": "tylko przy pierwszym uruchomieniu",
       "d": "gdy wymieniliśmy baterię w celu dalszego lotu"
     },
-    "poprawna_odpowiedz": "b"
+    "poprawna_odpowiedz": "b",
+    "wyjasnienie": "Gdy zmienialiśmy miejsce lotów, warto sprawdzić otatni wybór 🤣"
   },
   {
     "pytanie": "Lot na zbyt dużą odległość ma wpływ na:",
@@ -241,7 +260,8 @@
       "c": "pogorszenie postrzegania nad jakim punktem aktualnie znajduje się BSP",
       "d": "wszystkie odpowiedzi są prawidłowe"
     },
-    "poprawna_odpowiedz": "d"
+    "poprawna_odpowiedz": "d",
+    "wyjasnienie": ""
   },
   {
     "pytanie": "Jakie elementy i podzespoły powinny zostać skontrolowane przez pilota po zakończeniu lotu?",
@@ -251,7 +271,8 @@
       "c": "ogólny stan BSP",
       "d": "wszystkie odpowiedzi są prawidłowe"
     },
-    "poprawna_odpowiedz": "d"
+    "poprawna_odpowiedz": "d",
+    "wyjasnienie": ""
   },
   {
     "pytanie": "Wskaż dobrą praktykę związaną z wykonywaniem lotów przy pomocy BSP",
@@ -272,7 +293,8 @@
       "c": "umieszczenie w widocznym miejscu numeru operatora",
       "d": "przestrzeganie zaleceń ULC"
     },
-    "poprawna_odpowiedz": "b"
+    "poprawna_odpowiedz": "b",
+    "wyjasnienie": ""
   },
   {
     "pytanie": "Co oznacza FIR EPWW?",
@@ -282,7 +304,8 @@
       "c": "strefa nad lotniskiem wojskowym w Warszawie",
       "d": "rejon informacji powietrznej Polskiej przestrzeni Powietrznej"
     },
-    "poprawna_odpowiedz": "d"
+    "poprawna_odpowiedz": "d",
+    "wyjasnienie": ""
   },
   {
     "pytanie": "Hover, to tryb w którym:",
@@ -292,7 +315,8 @@
       "c": "dron ląduje pod siebie",
       "d": "dron robi zawis"
     },
-    "poprawna_odpowiedz": "d"
+    "poprawna_odpowiedz": "d",
+    "wyjasnienie": ""
   },
   {
     "pytanie": "Aby dron mógł określić swoją pozycję potrzebny jest sygnał z co najmniej:",
@@ -302,7 +326,8 @@
       "c": "dwóch satelitów",
       "d": "czterech satelitów"
     },
-    "poprawna_odpowiedz": "d"
+    "poprawna_odpowiedz": "d",
+    "wyjasnienie": ""
   },
   {
     "pytanie": "Która z zapisanych poniżej wartości opisuje pojemność akumulatora?:",
@@ -312,7 +337,8 @@
       "c": "2500 mAh",
       "d": "3S"
     },
-    "poprawna_odpowiedz": "c"
+    "poprawna_odpowiedz": "c",
+    "wyjasnienie": ""
   },
   {
     "pytanie": "Co oznacza funkcja ładowania STORAGE?:",
@@ -333,7 +359,8 @@
       "c": "VLOS i BVLOS do 4 kg",
       "d": "VLOS i BVLOS do 25 kg (MR)"
     },
-    "poprawna_odpowiedz": "c"
+    "poprawna_odpowiedz": "c",
+    "wyjasnienie": "{\n  \"explanations\": {\n    \"VLOS\": {\n      \"description\": \"Lot w zasięgu wzroku (Visual Line of Sight), do 120m AGL (aż go widać)\",\n      \"scenarios\": [\n        {\n          \"NSTS\": \"01\",\n          \"weight_limit\": \"do 4 kg\",\n          \"aircraft_types\": [\n            \"MR\",\n            \"A\",\n            \"H\"\n          ],\n          \"additional_info\": \"FPV do 50 m AGL w poziomie 500 m\"\n        },\n        {\n          \"NSTS\": \"02\",\n          \"weight_limit\": \"do 25 kg\",\n          \"aircraft_types\": [\n            \"MR\"\n          ]\n        },\n        {\n          \"NSTS\": \"03\",\n          \"weight_limit\": \"do 25 kg\",\n          \"aircraft_types\": [\n            \"A\"\n          ]\n        },\n        {\n          \"NSTS\": \"04\",\n          \"weight_limit\": \"do 25 kg\",\n          \"aircraft_types\": [\n            \"H\"\n          ]\n        }\n      ]\n    },\n    \"BVLOS\": {\n      \"description\": \"Lot poza zasięgiem wzroku (Beyond Visual Line of Sight), do 120m AGL, do 2 km (bez obserwatora)\",\n      \"scenarios\": [\n        {\n          \"NSTS\": \"05\",\n          \"weight_limit\": \"do 4 kg\",\n          \"aircraft_types\": [\n            \"MR\",\n            \"A\",\n            \"H\"\n          ]\n        },\n        {\n          \"NSTS\": \"06\",\n          \"weight_limit\": \"do 25 kg\",\n          \"aircraft_types\": [\n            \"MR\"\n          ]\n        },\n        {\n          \"NSTS\": \"07\",\n          \"weight_limit\": \"do 25 kg\",\n          \"aircraft_types\": [\n            \"A\"\n          ]\n        },\n        {\n          \"NSTS\": \"08\",\n          \"weight_limit\": \"do 25 kg\",\n          \"aircraft_types\": [\n            \"H\"\n          ]\n        }\n      ]\n    }\n  }\n}"
   },
   {
     "pytanie": "Model sera szwajcarskiego zakłada, że aby doszło do wypadku:",
@@ -354,7 +381,8 @@
       "c": "europejski scenariusz standardowy wykorzystywany w kategorii szczególnej",
       "d": "krajowy scenariusz standardowy wykorzystywany w kategorii szczególnej"
     },
-    "poprawna_odpowiedz": "c"
+    "poprawna_odpowiedz": "c",
+    "wyjasnienie": ""
   },
   {
     "pytanie": "Kategoria otwarta charakteryzuje się:",
@@ -364,7 +392,8 @@
       "c": " możliwością przewozu materiałów niebezpiecznych",
       "d": " posiadania instrukcji operacyjnej posiadanej przez pilota BSP"
     },
-    "poprawna_odpowiedz": "a"
+    "poprawna_odpowiedz": "a",
+    "wyjasnienie": ""
   },
   {
     "pytanie": "Zaznacz pełną nazwę strefy ATZ:",
@@ -374,7 +403,8 @@
       "c": "strefa nad lotniskowa aeroklubów",
       "d": "strefa ruchu kontrolowanego"
     },
-    "poprawna_odpowiedz": "a"
+    "poprawna_odpowiedz": "a",
+    "wyjasnienie": ""
   },
   {
     "pytanie": "Warunkiem wykonania lotów VLOS w strefie ATZ jest:",
@@ -384,7 +414,8 @@
       "c": "uzyskanie zgody od zarządzającego lotniskiem",
       "d": "lot nie jest możliwy dla bezzałogoeych statków powietrznych"
     },
-    "poprawna_odpowiedz": "c"
+    "poprawna_odpowiedz": "c",
+    "wyjasnienie": ""
   },
   {
     "pytanie": "Warunkiem wykonywania lotów VLOS w strefie RMZ jest:",
@@ -405,7 +436,8 @@
       "c": "uzyskanie zgody tylko od zarządzającego lotniskiem",
       "d": "tylko poinformowanie służby informacji powietrznej"
     },
-    "poprawna_odpowiedz": "b"
+    "poprawna_odpowiedz": "b",
+    "wyjasnienie": ""
   },
   {
     "pytanie": "Lot niesprawnym technicznie dronem jest możliwy:",
@@ -426,7 +458,8 @@
       "c": "jakaś osoba doznała obrażeń ciała ze skutkiem śmiertelnym lub poważnych obrażeń ciała",
       "d": "wszystkie odpowiedzi są prawidłowe"
     },
-    "poprawna_odpowiedz": "d"
+    "poprawna_odpowiedz": "d",
+    "wyjasnienie": ""
   },
   {
     "pytanie": "Który organ zarządza ruchem lotniczym w FIR EPWW?:",
@@ -436,7 +469,8 @@
       "c": "FIS",
       "d": "zarządca strefy"
     },
-    "poprawna_odpowiedz": "a"
+    "poprawna_odpowiedz": "a",
+    "wyjasnienie": ""
   },
   {
     "pytanie": "Który dokument określa zasady udostępniania na rynku oraz swobodnego przepływu w UE bezzałogowych systemów powietrznych przeznaczonych do eksploatacji w ramach kategorii “otwartej” i dodatkowych elementów służących zdalnej identyfikacji?",
@@ -446,10 +480,11 @@
       "c": "Ustawa Prawo Lotnicze",
       "d": "Rozporządzenie Ministra Transportu"
     },
-    "poprawna_odpowiedz": "a"
+    "poprawna_odpowiedz": "a",
+    "wyjasnienie": ""
   },
   {
-    "pytanie": "Co to jest EASA:",
+    "pytanie": "Co to jest EASA 🇪🇺:",
     "odpowiedzi": {
       "a": "European Agency Safety Aviation",
       "b": "European Air Safety Agency",
@@ -457,7 +492,7 @@
       "d": "European Aviation Safety Agency"
     },
     "poprawna_odpowiedz": "d",
-    "wyjasnienie": "EASA to Europejska Agencja Bezpieczeństwa Lotniczego, odpowiedzialna za bezpieczeństwo lotnictwa cywilnego w Europie."
+    "wyjasnienie": "🇪🇺 EASA to Europejska Agencja Bezpieczeństwa Lotniczego, odpowiedzialna za bezpieczeństwo lotnictwa cywilnego w Europie."
   },
   {
     "pytanie": "AIP to:",
@@ -468,27 +503,30 @@
       "d": "Wszystkie z powyższych są prawidłowe",
       "e": "Czasowy plan użytkowania przestrzeni powietrznej"
     },
-    "poprawna_odpowiedz": "d"
+    "poprawna_odpowiedz": "d",
+    "wyjasnienie": ""
   },
   {
-    "pytanie": "Jakie zadania należą do EASA:",
+    "pytanie": "Jakie zadania należą do EASA 🇪🇺:",
     "odpowiedzi": {
       "a": "Do jej głównych zadań należy zapewnienie bezpieczeństwa i ochrony środowiska w lotnictwie cywilnym w Europie.",
       "b": "Dbanie o bezpieczeństwo całej Unii Europejskiej",
       "c": "Do jej głównyc zadań należy zapewnienie bezpieczeństwa i ochrony środowiska w lotnictwie wojskowym w Europie",
       "d": "Obrony Europy przed Rosją"
     },
-    "poprawna_odpowiedz": "a"
+    "poprawna_odpowiedz": "a",
+    "wyjasnienie": "🇪🇺"
   },
   {
-    "pytanie": "PAŻP prowadzi rejestr:",
+    "pytanie": "PAŻP (PANSA) prowadzi rejestr:",
     "odpowiedzi": {
       "a": "Personelu lotniczego",
-      "b": "Statków powietrznych",
-      "c": "Przestrzeni powietrznej",
+      "b": "Statków powietrznych ",
+      "c": "Przestrzeni powietrznej ",
       "d": "Lotnisk"
     },
-    "poprawna_odpowiedz": "c"
+    "poprawna_odpowiedz": "c",
+    "wyjasnienie": "PAŻP (PANSA) prowadzi rejestr przestrzeni powietrznej"
   },
   {
     "pytanie": "Incydenty/wypadki lotnicze zgłaszamy",
@@ -498,7 +536,8 @@
       "c": "Centralna baza zgłoszeń Urzędu lotnictwa Cywilnego (cbz.ulc.gov.pl)",
       "d": "Telefonicznie do wieży najbliższego lotniska"
     },
-    "poprawna_odpowiedz": "b"
+    "poprawna_odpowiedz": "b",
+    "wyjasnienie": ""
   },
   {
     "pytanie": "ULC rozwiń skrót:",
@@ -508,7 +547,8 @@
       "c": "Urząd spraw cywilów",
       "d": "Urząd lotnictwa cywilnego"
     },
-    "poprawna_odpowiedz": "d"
+    "poprawna_odpowiedz": "d",
+    "wyjasnienie": ""
   },
   {
     "pytanie": "Wysokość maksymalna dla jakiej można latać w ramach NSTS-01:",
@@ -518,7 +558,8 @@
       "c": "W zależności od miejsca startu",
       "d": "Bez ograniczeń"
     },
-    "poprawna_odpowiedz": "b"
+    "poprawna_odpowiedz": "b",
+    "wyjasnienie": ""
   },
   {
     "pytanie": "W NSTS 05 można wykonywać loty:",
@@ -528,7 +569,8 @@
       "c": "VLOS, BSP do 4 kg",
       "d": "BVLOS, BSP do 25 kg"
     },
-    "poprawna_odpowiedz": "b"
+    "poprawna_odpowiedz": "b",
+    "wyjasnienie": ""
   },
   {
     "pytanie": "Dolna granica wieku dla pilota BSP:",
@@ -538,7 +580,8 @@
       "c": "15 lat",
       "d": "18 lat"
     },
-    "poprawna_odpowiedz": "b"
+    "poprawna_odpowiedz": "b",
+    "wyjasnienie": ""
   },
   {
     "pytanie": "Wykonując lot vlos lub bvlos bezzałogowcem większym niż 1 m",
@@ -548,7 +591,8 @@
       "c": "Nad obszarem kontrolowanym",
       "d": "Lot wykonujemy na obszarem słabo zaludnionym"
     },
-    "poprawna_odpowiedz": "c"
+    "poprawna_odpowiedz": "c",
+    "wyjasnienie": ""
   },
   {
     "pytanie": "Czy podczas lotów można przewozić materiały niebezpieczne",
@@ -558,7 +602,8 @@
       "c": "Tak",
       "d": "Nie można przewozić materiałów niebezpiecznych"
     },
-    "poprawna_odpowiedz": "d"
+    "poprawna_odpowiedz": "d",
+    "wyjasnienie": ""
   },
   {
     "pytanie": "Operacje z użyciem SBSP zgodnie z NSTS-01 wykonujemy:",
@@ -568,7 +613,8 @@
       "c": "Żadna z odpowiedzi nie jest prawidłowa",
       "d": "Niezgodnie z instrukcją operacyjną"
     },
-    "poprawna_odpowiedz": "a"
+    "poprawna_odpowiedz": "a",
+    "wyjasnienie": "{\n  \"explanations\": {\n    \"VLOS\": {\n      \"description\": \"Lot w zasięgu wzroku (Visual Line of Sight), do 120m AGL (aż go widać)\",\n      \"scenarios\": [\n        {\n          \"NSTS\": \"01\",\n          \"weight_limit\": \"do 4 kg\",\n          \"aircraft_types\": [\n            \"MR\",\n            \"A\",\n            \"H\"\n          ],\n          \"additional_info\": \"FPV do 50 m AGL w poziomie 500 m\"\n        },\n        {\n          \"NSTS\": \"02\",\n          \"weight_limit\": \"do 25 kg\",\n          \"aircraft_types\": [\n            \"MR\"\n          ]\n        },\n        {\n          \"NSTS\": \"03\",\n          \"weight_limit\": \"do 25 kg\",\n          \"aircraft_types\": [\n            \"A\"\n          ]\n        },\n        {\n          \"NSTS\": \"04\",\n          \"weight_limit\": \"do 25 kg\",\n          \"aircraft_types\": [\n            \"H\"\n          ]\n        }\n      ]\n    },\n    \"BVLOS\": {\n      \"description\": \"Lot poza zasięgiem wzroku (Beyond Visual Line of Sight), do 120m AGL, do 2 km (bez obserwatora)\",\n      \"scenarios\": [\n        {\n          \"NSTS\": \"05\",\n          \"weight_limit\": \"do 4 kg\",\n          \"aircraft_types\": [\n            \"MR\",\n            \"A\",\n            \"H\"\n          ]\n        },\n        {\n          \"NSTS\": \"06\",\n          \"weight_limit\": \"do 25 kg\",\n          \"aircraft_types\": [\n            \"MR\"\n          ]\n        },\n        {\n          \"NSTS\": \"07\",\n          \"weight_limit\": \"do 25 kg\",\n          \"aircraft_types\": [\n            \"A\"\n          ]\n        },\n        {\n          \"NSTS\": \"08\",\n          \"weight_limit\": \"do 25 kg\",\n          \"aircraft_types\": [\n            \"H\"\n          ]\n        }\n      ]\n    }\n  }\n}"
   },
   {
     "pytanie": "Tryb niskiej prędkości charakteryzuje się prędkością BSP:",
@@ -578,7 +624,8 @@
       "c": "6 m/s",
       "d": "3 m/s"
     },
-    "poprawna_odpowiedz": "d"
+    "poprawna_odpowiedz": "d",
+    "wyjasnienie": ""
   },
   {
     "pytanie": "Czy w lotach w kategorii “szczególnej” wymagana jest instrukcja operacyjna:",
@@ -588,7 +635,8 @@
       "c": "Tak, tylko przy lotach w kategorii powyżej NSTS-01",
       "d": "Tak, przy każdym scenariuszu NSTS"
     },
-    "poprawna_odpowiedz": "c"
+    "poprawna_odpowiedz": "c",
+    "wyjasnienie": ""
   },
   {
     "pytanie": "Czy w locie FPV zachowujemy następujące warunki:",
@@ -598,7 +646,8 @@
       "c": "Do wysokości nie większej niż 50 m nad poziomem terenu",
       "d": "w odległości poziomej nie większej niż 400 m od pilota"
     },
-    "poprawna_odpowiedz": "c"
+    "poprawna_odpowiedz": "c",
+    "wyjasnienie": ""
   },
   {
     "pytanie": "Czy jest obowiązkowe ubezpieczenie OC dla pilota BSP:",
@@ -608,7 +657,8 @@
       "c": "Tak jest obowiązkowe",
       "d": "Tylko dla lotów SBSP powyżej 20 kg"
     },
-    "poprawna_odpowiedz": "d"
+    "poprawna_odpowiedz": "d",
+    "wyjasnienie": ""
   },
   {
     "pytanie": "Prze jaki system wykonujemy Check-in przed lotem BSP?",
@@ -629,7 +679,8 @@
       "c": "Nie ma takiej potrzeby",
       "d": "W zależności od wykonywanej misji"
     },
-    "poprawna_odpowiedz": "b"
+    "poprawna_odpowiedz": "b",
+    "wyjasnienie": ""
   },
   {
     "pytanie": "Co to jest NOTAM?",
@@ -641,7 +692,7 @@
       "e": "Pilotów dronów nie obowiązują NOTAM"
     },
     "poprawna_odpowiedz": "a",
-    "wyjasnienie": "NOTAM to krótka tekstowa wiadomość, rozpowszechniana za pomocą środków telekomunikacyjnych, zawierająca informacje o ustanowieniu, stanie lub zmianach urządzeń lotniczych, służb, procedur 1  lub o niebezpieczeństwach, których znajomość we właściwym czasie jest niezbędna dla personelu związanego z operacjami lotniczymi."
+    "wyjasnienie": "NOTAM to krótka tekstowa wiadomość, rozpowszechniana za pomocą środków telekomunikacyjnych, zawierająca informacje o ustanowieniu, stanie lub zmianach urządzeń lotniczych, służb, procedur lub o niebezpieczeństwach, których znajomość we właściwym czasie jest niezbędna dla personelu związanego z operacjami lotniczymi."
   },
   {
     "pytanie": "Co to jest TWR?",
@@ -684,6 +735,7 @@
       "c": "Konieczna jest konsultacja z Orzecznikiem",
       "d": "Tak, oczywiście są one obowiązkowe"
     },
-    "poprawna_odpowiedz": "a"
+    "poprawna_odpowiedz": "a",
+    "wyjasnienie": ""
   }
 ]
