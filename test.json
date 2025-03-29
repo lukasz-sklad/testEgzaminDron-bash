@@ -1,5 +1,173 @@
 [
   {
+    "pytanie": "Jaki wpływ ma płynny ładunek na lot BSP?",
+    "odpowiedzi": {
+      "a": "Nie mają wpływu",
+      "b": "Znaczy, płyn przemieszczając się zmienia środek ciężkości całego BSP",
+      "c": "Płyn może przemieścić się i spowodować błędne działanie magnetometru",
+      "d": "Płynny ładunek sprawia, że BSP staje się lżejszy i zużywa mniej energii."
+    },
+    "poprawna_odpowiedz": "b",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Czy miejsce mocowania ładunku ma wpływ na lot?",
+    "odpowiedzi": {
+      "a": "Tak, ma wpływ przede wszystkim na czas lotu",
+      "b": "Tak, zmienia stabilność i manewrowość BSP",
+      "c": "Tak, przede wszystkim ma wpływ na zasięg telemetrii",
+      "d": "Nie"
+    },
+    "poprawna_odpowiedz": "b",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Obszar wykorzystywany do oceny ryzyka na ziemi składa się z:",
+    "odpowiedzi": {
+      "a": "Strefy operacyjnej, przestrzeni awaryjnej, buforu ryzyka na ziemi, obszaru przyległego",
+      "b": "Sterfy operacyjnej, braku przestrzeni awaryjnej, bufora ryzyka na ziemi, obszaru przyległego",
+      "c": "Nie ma czegoś takiego",
+      "d": "Tych procedur się nie stosuje"
+    },
+    "poprawna_odpowiedz": "a",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Stosunek uciśnięć do wdechów przy RKO wynosi:",
+    "odpowiedzi": {
+      "a": "30/2",
+      "b": "10/2",
+      "c": "50/1",
+      "d": "40/20"
+    },
+    "poprawna_odpowiedz": "a",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Lot w skrajnych temperaturach (powyżej 40 stopni C lub poniżej - 10 stopni C) mają wpływ *1/1 na:",
+    "odpowiedzi": {
+      "a": "Wysoka temperatura nie wpływa nalot, podobnie jak w niskich",
+      "b": "Temperatura nie ma wpływu na jakość lotu",
+      "c": "Osiągi BSP",
+      "d": "Wszystkie odpowiedzi są prawidłowe"
+    },
+    "poprawna_odpowiedz": "c",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Czy można zamienić śmigło CW na CCW?",
+    "odpowiedzi": {
+      "a": "Tak",
+      "b": "Nie",
+      "c": "Można je zamienić, jednak tylko parami",
+      "d": "W wielowirnikowcu tak, w samolocie nie"
+    },
+    "poprawna_odpowiedz": "b",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Jaka jest górna granica przestrzeni klasy G?",
+    "odpowiedzi": {
+      "a": "FL095",
+      "b": "10200m",
+      "c": "120m",
+      "d": "FL110"
+    },
+    "poprawna_odpowiedz": "a",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Czy pilot w PL wykonując lot w kategorii szczególnej musi wykonywać czynności lotnicze w kamizelce odblaskowej?",
+    "odpowiedzi": {
+      "a": "Nie, jeżeli wykonuje loty rekreacyjno-sportowe",
+      "b": "Tylko miejscach zaludnionych",
+      "c": "Tak, w kategorii szczególnej jest to obowiązkowe",
+      "d": "Tylko jeżeli masa startowa BSP przekracza 25 kg."
+    },
+    "poprawna_odpowiedz": "c",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Gęstość powietrza",
+    "odpowiedzi": {
+      "a": "Gęstość powietrza maleje wraz ze wzrostem ciśnienia atmosferycznego",
+      "b": "Gęstość powietrza wzrasta wraz ze wzrostem ciśnienia atmosferycznego",
+      "c": "Gęstość powietrza nie zmienia się wraz ze wzrostem ciśnienia atmosferycznego",
+      "d": "Gęstość powietrza pozostaje zawsze taka sama, zanika w kosmosie"
+    },
+    "poprawna_odpowiedz": "b",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Czy należy zabezpieczyć miejsce startu i lądowania?",
+    "odpowiedzi": {
+      "a": "Tak, wezwać policję i straż pożarną",
+      "b": "Nie, ma takiej potrzeby",
+      "c": "Tak, przed dostępem osób postronnych",
+      "d": "Nie, ponieważ SBSP nigdy nie ląduje w miejscu startu"
+    },
+    "poprawna_odpowiedz": "c",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Jakie jest maksymalne napięcie pojedynczego ogniwa?",
+    "odpowiedzi": {
+      "a": "3,8 Volt",
+      "b": "4,2 Volt",
+      "c": "3,7 Volt",
+      "d": "3,3 Volt"
+    },
+    "poprawna_odpowiedz": "b",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Tempo uciśnięć klatki piersiowej w trakcie RKO to:",
+    "odpowiedzi": {
+      "a": "60/min",
+      "b": "100-120/min",
+      "c": "Dokładnie 100/min",
+      "d": "Co najmniej 60/min"
+    },
+    "poprawna_odpowiedz": "b",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Czy można zastosować pakiet Li-Po, który jest spuchnięty?",
+    "odpowiedzi": {
+      "a": "Tak, spuchnięcie nie powoduje zagrożenia",
+      "b": "Tak, z czasem pojemność pakietu rośnie",
+      "c": "Nie, taki pakiet należy oddać do utylizacji",
+      "d": "Tak, jest to naturalny objaw naładowania"
+    },
+    "poprawna_odpowiedz": "c",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Jaka będzie konsekwencja rozszczelnienia celi pakietu LiPo?",
+    "odpowiedzi": {
+      "a": "Nic się nie stanie, często tak mają",
+      "b": "Pożar",
+      "c": "Wzrost napięcia na celi",
+      "d": "Napuchnięcie celi"
+    },
+    "poprawna_odpowiedz": "b",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
     "pytanie": "Co to jest ATC?",
     "odpowiedzi": {
       "a": "Służba kontroli obszaru",
@@ -9,6 +177,18 @@
     },
     "poprawna_odpowiedz": "b",
     "wyjasnienie": "ATC (Air Traffic Control) to Służba Kontroli Ruchu Lotniczego, która odpowiada za bezpieczne i uporządkowane zarządzanie ruchem statków powietrznych.",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Czy jest możliwe określenie odległości BSP od osób postronnych w przypadku *1/1 lotu BVLOS",
+    "odpowiedzi": {
+      "a": "Tak, dzięki ostrzeżeniom generowanym przez czujniki odległości przeszkód",
+      "b": "Jest to prawie niemożliwe ze względu na odległość",
+      "c": "Nie ma to znaczenia, gdyż loty te wykonywane są zawsze nad zamkniętym terenem",
+      "d": "Tak, wszystkich ludzi widać w kamerze"
+    },
+    "poprawna_odpowiedz": "b",
+    "wyjasnienie": "",
     "wyjasnienie_tabela": ""
   },
   {
@@ -48,6 +228,114 @@
     "wyjasnienie_tabela": ""
   },
   {
+    "pytanie": "Co to jest IMU:",
+    "odpowiedzi": {
+      "a": "Mierzy czas",
+      "b": "Regulator napięcia",
+      "c": "Płyta główna w SBSP",
+      "d": "Mierzy napięcie pakietów LiPo"
+    },
+    "poprawna_odpowiedz": "c",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Środki pozwalające ograniczyć ryzyko na ziemi:",
+    "odpowiedzi": {
+      "a": "Rozłożyć hamak",
+      "b": "Należy obliczyć krzywą startu",
+      "c": "Zachowywanie bezpiecznej odległości (np.: bufor w skali 1:1)",
+      "d": "Nie ma potrzeby stosować ograniczeń"
+    },
+    "poprawna_odpowiedz": "c",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Jakie jest najniższe bezpieczne napięcie pojedynczego ogniwa?",
+    "odpowiedzi": {
+      "a": "3,7 Volt",
+      "b": "4,2 Volt",
+      "c": "3,8 Volt",
+      "d": "3,2 Volt"
+    },
+    "poprawna_odpowiedz": "d",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Która z zapisanych poniżej wartości opisuje pojemność akumulatora?",
+    "odpowiedzi": {
+      "a": "16000mAh",
+      "b": "25C",
+      "c": "12V",
+      "d": "25C LiPo"
+    },
+    "poprawna_odpowiedz": "a",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Najlepsze ustawienie FailSafe przy starcie z poruszającej się łodzi to:",
+    "odpowiedzi": {
+      "a": "Landing",
+      "b": "Nie ma takiego ustawienia",
+      "c": "RTH",
+      "d": "Hover"
+    },
+    "poprawna_odpowiedz": "d",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Dzieci na lądowisku:",
+    "odpowiedzi": {
+      "a": "Są nieprzewidywalne",
+      "b": "Wszystkie z powyższych odpowiedzi są prawidłowe",
+      "c": "Mogą uniemożliwić lądowanie",
+      "d": "Mogą być skrajnie niebezpieczne dla operacji lotniczej"
+    },
+    "poprawna_odpowiedz": "b",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Na podstawie indeksu KP można określić:",
+    "odpowiedzi": {
+      "a": "Prędkość wiatru wzgędem BSP",
+      "b": "Prawdopodobieństwo zakłóceń GPS",
+      "c": "Prawdopodobieństwo wystąpienia wyładowań atmosferycznych",
+      "d": "Ciśnienie określone w KiloPascalach"
+    },
+    "poprawna_odpowiedz": "b",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Jaki z elementów bezzałogowego systemu powietrznego należy uruchomić w *1/1 pierwszej kolejności podczas rozpoczynania operacji lotniczej?",
+    "odpowiedzi": {
+      "a": "Odbiornik",
+      "b": "Smartfon",
+      "c": "Nadajnik RC",
+      "d": "Silnik"
+    },
+    "poprawna_odpowiedz": "c",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Ile wynosi możliwy błąd GPS:",
+    "odpowiedzi": {
+      "a": "GPS nigdy się nie myli",
+      "b": "Kilka centymetrów",
+      "c": "5 metrów",
+      "d": "Około 2x2 metry"
+    },
+    "poprawna_odpowiedz": "d",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
     "pytanie": "Temperatura silnika powyżej 80 stopni C może doprowadzić do:",
     "odpowiedzi": {
       "a": "Wybuchu akumulatora",
@@ -72,6 +360,18 @@
     "wyjasnienie_tabela": ""
   },
   {
+    "pytanie": "KP Index określa aktywność promieniowania słonecznego (w skali od 0 do 9). *1/1 Obecnie wynosi 9 - czy można latać?",
+    "odpowiedzi": {
+      "a": "Tak, KP nie ma wpływu na lot",
+      "b": "Tak indeks nie istnieje",
+      "c": "Przy tak wysokim KP powiniśmy zaniechać lotów",
+      "d": "Czekamy na zachód słońca"
+    },
+    "poprawna_odpowiedz": "c",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
     "pytanie": "Za bezpieczeństwo lotu od startu do lądowania BSP odpowiada:",
     "odpowiedzi": {
       "a": "pilot BSP",
@@ -84,6 +384,30 @@
     "wyjasnienie_tabela": ""
   },
   {
+    "pytanie": "Duża wilgotność powietrza (>90%):",
+    "odpowiedzi": {
+      "a": "Idealna wilgotność do latania",
+      "b": "Wilgotność nie ma wpływu na lot BSP",
+      "c": "Zwiększa zasięg",
+      "d": "Zmniejsza zasięg między aparaturą sterującą, a platformą latającą"
+    },
+    "poprawna_odpowiedz": "d",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Co to jest akcelerometr:",
+    "odpowiedzi": {
+      "a": "Nie ma takiego urządzenia w BSP",
+      "b": "Akcelerometr mierzy przyspieszenie liniowe",
+      "c": "Akcelerometr mierzy przyspieszenie względem słońca",
+      "d": "Nie ma takiego czegoś jak akcelerometr"
+    },
+    "poprawna_odpowiedz": "b",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
     "pytanie": "Wskaż strefę ograniczoną:",
     "odpowiedzi": {
       "a": "P",
@@ -92,6 +416,42 @@
       "d": "R"
     },
     "poprawna_odpowiedz": "d",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Co to jest Balanser?",
+    "odpowiedzi": {
+      "a": "Cyfrowy stabilizator obrazu",
+      "b": "Element wyważający BSP",
+      "c": "Element konstrukcji śmigieł",
+      "d": "Element wyrównujący napięcie ogniw"
+    },
+    "poprawna_odpowiedz": "d",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Ile jest rodzajów chmur?",
+    "odpowiedzi": {
+      "a": "4",
+      "b": "2",
+      "c": "10",
+      "d": "6"
+    },
+    "poprawna_odpowiedz": "c",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Jednostki napięcie oznaczone jest w:",
+    "odpowiedzi": {
+      "a": "[A] - Amper",
+      "b": "[mAh] - miliAmperogodzin",
+      "c": "[V] - Volt",
+      "d": "[C] - ładunek"
+    },
+    "poprawna_odpowiedz": "c",
     "wyjasnienie": "",
     "wyjasnienie_tabela": ""
   },
@@ -168,12 +528,36 @@
     "wyjasnienie_tabela": ""
   },
   {
+    "pytanie": "Opad deszczu ze śniegiem może wpłynąć na występowanie:",
+    "odpowiedzi": {
+      "a": "Zjawiska halo",
+      "b": "Turbulencje",
+      "c": "Oblodzenie",
+      "d": "Dobrej widzialności"
+    },
+    "poprawna_odpowiedz": "c",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
     "pytanie": "W sytuacji niebezpiecznej, gdy dwa SP lecą na siebie czołowo, dowódcy SP powinni wykonać uniki:",
     "odpowiedzi": {
       "a": "każdy w prawo",
       "b": "jeden w prawo drugi w dół",
       "c": "każdy w lewo",
       "d": "jeden w lewo drugi w prawo"
+    },
+    "poprawna_odpowiedz": "a",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Najbardziej niebezpieczne dla operacji BSP chmury to:",
+    "odpowiedzi": {
+      "a": "Cumulunimbusy",
+      "b": "Cirrusy",
+      "c": "Altostratusy",
+      "d": "Statocumulusy"
     },
     "poprawna_odpowiedz": "a",
     "wyjasnienie": "",
@@ -200,6 +584,18 @@
       "d": "premiera"
     },
     "poprawna_odpowiedz": "c",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Jakie mogą być następstwa lotu BVLOS we mgle?",
+    "odpowiedzi": {
+      "a": "Zmniejsza czas pracy akumulatorów",
+      "b": "Ryzyko uderzenia w przeszkodę",
+      "c": "Zmniejszona siła nośna SBSP",
+      "d": "Rozładowanie się akumulatorów"
+    },
+    "poprawna_odpowiedz": "b",
     "wyjasnienie": "",
     "wyjasnienie_tabela": ""
   },
@@ -864,6 +1260,18 @@
     "wyjasnienie_tabela": ""
   },
   {
+    "pytanie": "Co to jest żyroskop",
+    "odpowiedzi": {
+      "a": "Żyroskop mierzy przyspieszenie kątowe",
+      "b": "Żyroskop mierzy przyspieszenie wznoszenia",
+      "c": "Żyroskop mierzy przyspieszenie opadania",
+      "d": "Żyroskop mierzy przyspieszenie liniowe"
+    },
+    "poprawna_odpowiedz": "a",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
     "pytanie": "Wysokość maksymalna dla jakiej można latać w ramach NSTS-01:",
     "odpowiedzi": {
       "a": "150m AGL",
@@ -920,6 +1328,18 @@
       "d": "BVLOS, BSP do 25 kg"
     },
     "poprawna_odpowiedz": "b",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Drony DJI po utracie sygnału z aparatury na dłużej niż 2 sekundy mogą przejść *1/1 jeden z trzech trybów:",
+    "odpowiedzi": {
+      "a": "Return-to-Home, Landing, Hover",
+      "b": "Danger, Dangerous, Threatening",
+      "c": "Nie przechodzi w żaden tryb",
+      "d": "Attack, Fall, Drop"
+    },
+    "poprawna_odpowiedz": "a",
     "wyjasnienie": "",
     "wyjasnienie_tabela": ""
   },
