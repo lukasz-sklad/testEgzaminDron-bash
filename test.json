@@ -8,7 +8,8 @@
       "d": "Służba kontroli lotniska"
     },
     "poprawna_odpowiedz": "b",
-    "wyjasnienie": "ATC (Air Traffic Control) to Służba Kontroli Ruchu Lotniczego, która odpowiada za bezpieczne i uporządkowane zarządzanie ruchem statków powietrznych."
+    "wyjasnienie": "ATC (Air Traffic Control) to Służba Kontroli Ruchu Lotniczego, która odpowiada za bezpieczne i uporządkowane zarządzanie ruchem statków powietrznych.",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Kto odpowiada za stan techniczny drona?",
@@ -19,7 +20,8 @@
       "d": "ULC"
     },
     "poprawna_odpowiedz": "a",
-    "wyjasnienie": "Pilot lub operator Bezzałogowego Statku Powietrznego (BSP) jest odpowiedzialny za upewnienie się, że dron jest w dobrym stanie technicznym przed każdym lotem."
+    "wyjasnienie": "Pilot lub operator Bezzałogowego Statku Powietrznego (BSP) jest odpowiedzialny za upewnienie się, że dron jest w dobrym stanie technicznym przed każdym lotem.",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Jaki jest europejski numer alarmowy?",
@@ -30,7 +32,8 @@
       "d": "997"
     },
     "poprawna_odpowiedz": "a",
-    "wyjasnienie": "112 w całej Europie, 997 - POLICJA"
+    "wyjasnienie": "112 w całej Europie, 997 - POLICJA",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Za bezpieczeństwo lotu od startu do lądowania BSP odpowiada:",
@@ -41,7 +44,8 @@
       "d": "kontroler ruchu lotniczego"
     },
     "poprawna_odpowiedz": "a",
-    "wyjasnienie": "Ostateczną odpowiedzialność za bezpieczeństwo lotu BSP ponosi zawsze pilot."
+    "wyjasnienie": "Ostateczną odpowiedzialność za bezpieczeństwo lotu BSP ponosi zawsze pilot.",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Lot BSP w strefie identyfikacji obrony powietrznej (ADIZ) jest możliwy po skontaktowaniu się z:",
@@ -52,7 +56,8 @@
       "d": "EASA"
     },
     "poprawna_odpowiedz": "a",
-    "wyjasnienie": "Poprawną odpowiedzią powino być Straż Graniczną. Odpowiedź FIS"
+    "wyjasnienie": "Poprawną odpowiedzią powino być Straż Graniczną. Odpowiedź FIS",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Przestrzeń powietrzna dzieli się na:",
@@ -63,7 +68,8 @@
       "d": "północną i południową"
     },
     "poprawna_odpowiedz": "c",
-    "wyjasnienie": "Podstawowy podział przestrzeni powietrznej uwzględnia, czy ruch lotniczy jest w niej kontrolowany przez odpowiednie służby, czy też nie. C i D - kontrolowana, G - niekotrolowana (GDN-FL095) ok. 3 km, ok 9500 stóp"
+    "wyjasnienie": "Podstawowy podział przestrzeni powietrznej uwzględnia, czy ruch lotniczy jest w niej kontrolowany przez odpowiednie służby, czy też nie. C i D - kontrolowana, G - niekotrolowana (GDN-FL095) ok. 3 km, ok 9500 stóp",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Z jakiej chmury pada grad?",
@@ -74,7 +80,8 @@
       "d": "Cb"
     },
     "poprawna_odpowiedz": "d",
-    "wyjasnienie": "Cb - Cumulonimbus, Rodzai chmur jest 10, warstw 3 (piętro niskie, średnie, wysokie)"
+    "wyjasnienie": "Cb - Cumulonimbus, Rodzai chmur jest 10, warstw 3 (piętro niskie, średnie, wysokie)",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "W sytuacji niebezpiecznej, gdy dwa SP lecą na siebie czołowo, dowódcy SP powinni wykonać uniki:",
@@ -85,7 +92,8 @@
       "d": "jeden w lewo drugi w prawo"
     },
     "poprawna_odpowiedz": "a",
-    "wyjasnienie": ""
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Przez kogo powoływany jest niezależny organ PKBWL?",
@@ -96,7 +104,8 @@
       "d": "premiera"
     },
     "poprawna_odpowiedz": "c",
-    "wyjasnienie": ""
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Który z wymienionych czujników pozwala na utrzymanie drona na stałej wysokości?",
@@ -107,7 +116,8 @@
       "d": "kompas"
     },
     "poprawna_odpowiedz": "a",
-    "wyjasnienie": "Barametr mierzy ciśnienie atmosferyczne, które zmienia się wraz z wysokością, umożliwiając dronowi utrzymanie stałego poziomu lotu. Przypominajka 😲 Akcelerometr-przyspieszenie liniowe, żyroskop-przyspieszenie kątowe, kompas-magnetrometr, 🤔 1013,25 hPa 760mmHg, malała 0.65℃ na 100 m do góry, 0,65℃/100m lub 6,5℃/1000m"
+    "wyjasnienie": "Barametr mierzy ciśnienie atmosferyczne, które zmienia się wraz z wysokością, umożliwiając dronowi utrzymanie stałego poziomu lotu. Przypominajka 😲 Akcelerometr-przyspieszenie liniowe, żyroskop-przyspieszenie kątowe, kompas-magnetrometr, 🤔 1013,25 hPa 760mmHg, malała 0.65℃ na 100 m do góry, 0,65℃/100m lub 6,5℃/1000m",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Oznaczenie “P” na pakiecie LiPo mówi o:",
@@ -118,7 +128,8 @@
       "d": "pakiecie głębokiego rozładowania"
     },
     "poprawna_odpowiedz": "a",
-    "wyjasnienie": "P (równolegle)=parallel >pojemność, S (szeregowe)=serial >napięcie, 🤔 3S 12.6V, naładowana 4.2V (+0.5V), napięcie nominalne 3.7V, rozładowane ogniwo 3.2V (-0.5V)"
+    "wyjasnienie": "P (równolegle)=parallel >pojemność, S (szeregowe)=serial >napięcie, 🤔 3S 12.6V, naładowana 4.2V (+0.5V), napięcie nominalne 3.7V, rozładowane ogniwo 3.2V (-0.5V)",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Od czego zależy siła nośśna?",
@@ -129,7 +140,8 @@
       "d": "wszystkie z powyższych"
     },
     "poprawna_odpowiedz": "d",
-    "wyjasnienie": ""
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Deszcz przechłodzony występuje,gdy",
@@ -140,7 +152,8 @@
       "d": "Temperatura cząsteczek jest taka sama jak temperatura powietrza otaczającego"
     },
     "poprawna_odpowiedz": "b",
-    "wyjasnienie": "Deszcz przechłodzony, inaczej marznący deszcz, to rodzaj opadu atmosferycznego, który występuje, gdy krople deszczu mają temperaturę poniżej 0°C (są przechłodzone), ale pozostają w stanie ciekłym. Krótko mówiąc, deszcz przechłodzony to deszcz, który zamarza natychmiast po uderzeniu w powierzchnię o temperaturze poniżej zera, tworząc niebezpieczną warstwę lodu. Tworzy gołoledź, powoduje uszkodzenia, utrudnia podróżowanie. Narastający lód może obciążać i łamać gałęzie drzew, a także powodować zerwanie linii energetycznych i telekomunikacyjnych."
+    "wyjasnienie": "Deszcz przechłodzony, inaczej marznący deszcz, to rodzaj opadu atmosferycznego, który występuje, gdy krople deszczu mają temperaturę poniżej 0°C (są przechłodzone), ale pozostają w stanie ciekłym. Krótko mówiąc, deszcz przechłodzony to deszcz, który zamarza natychmiast po uderzeniu w powierzchnię o temperaturze poniżej zera, tworząc niebezpieczną warstwę lodu. Tworzy gołoledź, powoduje uszkodzenia, utrudnia podróżowanie. Narastający lód może obciążać i łamać gałęzie drzew, a także powodować zerwanie linii energetycznych i telekomunikacyjnych.",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Co to jest “failsafe”?",
@@ -151,7 +164,8 @@
       "d": "system pozwalający na wykonywanie lotów autonomicznych"
     },
     "poprawna_odpowiedz": "a",
-    "wyjasnienie": "Failsafe to kluczowy system bezpieczeństwa, który automatycznie reaguje w sytuacji awaryjnej, takiej jak utrata sygnału z kontrolera.  RTH 🏠, zawis ✈️, lądowanie 🛬 lub RTH 💫, Hower 🛸, lądowanie 🛩️"
+    "wyjasnienie": "Failsafe to kluczowy system bezpieczeństwa, który automatycznie reaguje w sytuacji awaryjnej, takiej jak utrata sygnału z kontrolera.  RTH 🏠, zawis ✈️, lądowanie 🛬 lub RTH 💫, Hower 🛸, lądowanie 🛩️",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Kiedy należy balansować pakiety LiPo?",
@@ -162,7 +176,8 @@
       "d": "nie należy ich balansować"
     },
     "poprawna_odpowiedz": "a",
-    "wyjasnienie": "Balansowanie pakietów LiPo po każdym ładowaniu zapewnia dłuższą żywotność baterii i bezpieczniejsze użytkowanie. Po prostu wyrównujemy napięcie między celami 🔋🔋🔋"
+    "wyjasnienie": "Balansowanie pakietów LiPo po każdym ładowaniu zapewnia dłuższą żywotność baterii i bezpieczniejsze użytkowanie. Po prostu wyrównujemy napięcie między celami 🔋🔋🔋",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Co to jest MTOM?",
@@ -173,7 +188,8 @@
       "d": "minimalna masa startowa"
     },
     "poprawna_odpowiedz": "a",
-    "wyjasnienie": "Jest określony przez producenta lub konstruktora, znajdziemy go w instrukcji"
+    "wyjasnienie": "Jest określony przez producenta lub konstruktora, znajdziemy go w instrukcji",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Skrót BVLOS wskazuje na loty:",
@@ -184,7 +200,8 @@
       "d": "Visual Line Of Sight"
     },
     "poprawna_odpowiedz": "b",
-    "wyjasnienie": "BVLOS (bez obserwatora) 2 km, w zasięgu wzroku VLOS aż widać drona 🙂 okiem nie uzbrojonym"
+    "wyjasnienie": "BVLOS (bez obserwatora) 2 km, w zasięgu wzroku VLOS aż widać drona 🙂 okiem nie uzbrojonym",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Do zniszczenia lub unieruchomienia BSP albo przejęcia kontroli nad jego lotem, może dojść przez “służby mundurowe”, kiedy przebieg lotu lub działanie BSP i pilota:",
@@ -195,7 +212,8 @@
       "d": "wszystkie odpowiedzi są prawidłowe"
     },
     "poprawna_odpowiedz": "d",
-    "wyjasnienie": ""
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Jak zachowuje się BSP w przypadku awarii?",
@@ -206,7 +224,8 @@
       "d": "w zależności od sytuacji oraz rodzaju może spaść w dość dużej odległości od miejsca awarii"
     },
     "poprawna_odpowiedz": "d",
-    "wyjasnienie": ""
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Zadaniem PKBWL jest:",
@@ -217,7 +236,8 @@
       "d": "obsługa administracyjna prezesa ULC"
     },
     "poprawna_odpowiedz": "a",
-    "wyjasnienie": "Państwowa Komisja Badania Wypadków Lotniczych (PKBWL) zajmuje się badaniem przyczyn i okoliczności wypadków lotniczych, aby zapobiegać im w przyszłości."
+    "wyjasnienie": "Państwowa Komisja Badania Wypadków Lotniczych (PKBWL) zajmuje się badaniem przyczyn i okoliczności wypadków lotniczych, aby zapobiegać im w przyszłości.",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Tryb niskiej prędkości w kategorii open charakteryzuje się prędkością BSP",
@@ -228,7 +248,8 @@
       "d": "5 m/s"
     },
     "poprawna_odpowiedz": "c",
-    "wyjasnienie": "Loty (w kategorii A2, klasa drona C2) min. 30 m w poziomie od ludzi, 5m w trybie niskiej prędkości 3m/s VLOS"
+    "wyjasnienie": "Loty (w kategorii A2, klasa drona C2) min. 30 m w poziomie od ludzi, 5m w trybie niskiej prędkości 3m/s VLOS",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Wśród manewrów awaryjnych można wymienić:",
@@ -239,7 +260,8 @@
       "d": "awaryjne wyłączenie silników"
     },
     "poprawna_odpowiedz": "c",
-    "wyjasnienie": "Zejście spiralą, unik w prawo, awaryjne wyłączenie silników"
+    "wyjasnienie": "Zejście spiralą, unik w prawo, awaryjne wyłączenie silników",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Kiedy konfigurujemy system FailSafe?",
@@ -250,7 +272,8 @@
       "d": "gdy wymieniliśmy baterię w celu dalszego lotu"
     },
     "poprawna_odpowiedz": "b",
-    "wyjasnienie": "Gdy zmienialiśmy miejsce lotów, warto sprawdzić otatni wybór 🤣"
+    "wyjasnienie": "Gdy zmienialiśmy miejsce lotów, warto sprawdzić otatni wybór 🤣",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Lot na zbyt dużą odległość ma wpływ na:",
@@ -261,7 +284,8 @@
       "d": "wszystkie odpowiedzi są prawidłowe"
     },
     "poprawna_odpowiedz": "d",
-    "wyjasnienie": ""
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Jakie elementy i podzespoły powinny zostać skontrolowane przez pilota po zakończeniu lotu?",
@@ -272,7 +296,8 @@
       "d": "wszystkie odpowiedzi są prawidłowe"
     },
     "poprawna_odpowiedz": "d",
-    "wyjasnienie": ""
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Wskaż dobrą praktykę związaną z wykonywaniem lotów przy pomocy BSP",
@@ -283,7 +308,8 @@
       "d": "wpieranie się Check-Listą"
     },
     "poprawna_odpowiedz": "d",
-    "wyjasnienie": "Korzystanie z Check-Listy przed, w trakcie i po locie to podstawa bezpiecznej eksploatacji BSP."
+    "wyjasnienie": "Korzystanie z Check-Listy przed, w trakcie i po locie to podstawa bezpiecznej eksploatacji BSP.",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Warunkiem eksploatacji systemu BSP w kategorii szczególnej jest:",
@@ -294,7 +320,8 @@
       "d": "przestrzeganie zaleceń ULC"
     },
     "poprawna_odpowiedz": "b",
-    "wyjasnienie": ""
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Co oznacza FIR EPWW?",
@@ -305,7 +332,8 @@
       "d": "rejon informacji powietrznej Polskiej przestrzeni Powietrznej"
     },
     "poprawna_odpowiedz": "d",
-    "wyjasnienie": ""
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Hover, to tryb w którym:",
@@ -316,7 +344,8 @@
       "d": "dron robi zawis"
     },
     "poprawna_odpowiedz": "d",
-    "wyjasnienie": ""
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Aby dron mógł określić swoją pozycję potrzebny jest sygnał z co najmniej:",
@@ -327,7 +356,8 @@
       "d": "czterech satelitów"
     },
     "poprawna_odpowiedz": "d",
-    "wyjasnienie": ""
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Która z zapisanych poniżej wartości opisuje pojemność akumulatora?:",
@@ -338,7 +368,8 @@
       "d": "3S"
     },
     "poprawna_odpowiedz": "c",
-    "wyjasnienie": ""
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Co oznacza funkcja ładowania STORAGE?:",
@@ -349,18 +380,19 @@
       "d": "ładowanie pakietu do 100 procent"
     },
     "poprawna_odpowiedz": "b",
-    "wyjasnienie": "Funkcja STORAGE służy do naładowania baterii do napięcia optymalnego do przechowywania, co przedłuża jej żywotność."
+    "wyjasnienie": "Funkcja STORAGE służy do naładowania baterii do napięcia optymalnego do przechowywania, co przedłuża jej żywotność.",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "W ramach NSTS-05 można wykonywać loty:",
     "odpowiedzi": {
-      "a": "VLOS do 4kg",
-      "b": "VLOS do 25 kg (MR)",
-      "c": "VLOS i BVLOS do 4 kg",
-      "d": "VLOS i BVLOS do 25 kg (MR)"
-    },
+    "a": "VLOS do 4kg",
+    "b": "VLOS do 25 kg (MR)",
+    "c": "VLOS i BVLOS do 4 kg",
+    "d": "VLOS i BVLOS do 25 kg (MR)"
+  },
     "poprawna_odpowiedz": "c",
-    "wyjasnienie": "{\n  \"explanations\": {\n    \"VLOS\": {\n      \"description\": \"Lot w zasięgu wzroku (Visual Line of Sight), do 120m AGL (aż go widać)\",\n      \"scenarios\": [\n        {\n          \"NSTS\": \"01\",\n          \"weight_limit\": \"do 4 kg\",\n          \"aircraft_types\": [\n            \"MR\",\n            \"A\",\n            \"H\"\n          ],\n          \"additional_info\": \"FPV do 50 m AGL w poziomie 500 m\"\n        },\n        {\n          \"NSTS\": \"02\",\n          \"weight_limit\": \"do 25 kg\",\n          \"aircraft_types\": [\n            \"MR\"\n          ]\n        },\n        {\n          \"NSTS\": \"03\",\n          \"weight_limit\": \"do 25 kg\",\n          \"aircraft_types\": [\n            \"A\"\n          ]\n        },\n        {\n          \"NSTS\": \"04\",\n          \"weight_limit\": \"do 25 kg\",\n          \"aircraft_types\": [\n            \"H\"\n          ]\n        }\n      ]\n    },\n    \"BVLOS\": {\n      \"description\": \"Lot poza zasięgiem wzroku (Beyond Visual Line of Sight), do 120m AGL, do 2 km (bez obserwatora)\",\n      \"scenarios\": [\n        {\n          \"NSTS\": \"05\",\n          \"weight_limit\": \"do 4 kg\",\n          \"aircraft_types\": [\n            \"MR\",\n            \"A\",\n            \"H\"\n          ]\n        },\n        {\n          \"NSTS\": \"06\",\n          \"weight_limit\": \"do 25 kg\",\n          \"aircraft_types\": [\n            \"MR\"\n          ]\n        },\n        {\n          \"NSTS\": \"07\",\n          \"weight_limit\": \"do 25 kg\",\n          \"aircraft_types\": [\n            \"A\"\n          ]\n        },\n        {\n          \"NSTS\": \"08\",\n          \"weight_limit\": \"do 25 kg\",\n          \"aircraft_types\": [\n            \"H\"\n          ]\n        }\n      ]\n    }\n  }\n}"
+    "wyjasnienie_tabela": "{\n  \"explanations\": {\n    \"VLOS\": {\n      \"description\": \"Lot w zasięgu wzroku (Visual Line of Sight), do 120m AGL (aż go widać)\",\n      \"scenarios\": [\n        {\n          \"NSTS\": \"NSTS-01\",\n          \"weight_limit\": \"do 4 kg\",\n          \"aircraft_types\": [\n            \"MR\",\n            \"A\",\n            \"H\"\n          ],\n          \"additional_info\": \"VLOS, FPV do 50 m AGL w poziomie 500 m\"\n        },\n        {\n          \"NSTS\": \"NSTS-02\",\n          \"weight_limit\": \"do 25 kg\",\n          \"aircraft_types\": [\n            \"MR\"\n          ],\n          \"additional_info\": \"VLOS\"\n        },\n        {\n          \"NSTS\": \"NSTS-03\",\n          \"weight_limit\": \"do 25 kg\",\n          \"aircraft_types\": [\n            \"A\"\n          ],\n          \"additional_info\": \"VLOS\"\n        },\n        {\n          \"NSTS\": \"NSTS-04\",\n          \"weight_limit\": \"do 25 kg\",\n          \"aircraft_types\": [\n            \"H\"\n          ]}\n      ]\n    },\n    \"BVLOS\": {\n      \"description\": \"Lot poza zasięgiem wzroku (Beyond Visual Line of Sight), do 120m AGL, do 2 km (bez obserwatora)\",\n      \"scenarios\": [\n        {\n          \"NSTS\": \"NSTS-05\",\n          \"weight_limit\": \"do 4 kg\",\n          \"aircraft_types\": [\n            \"MR\",\n            \"A\",\n            \"H\"\n          ],\n          \"additional_info\": \"BVLOS\"\n        },\n        {\n          \"NSTS\": \"NSTS-06\",\n          \"weight_limit\": \"do 25 kg\",\n          \"aircraft_types\": [\n            \"MR\"\n          ],\n          \"additional_info\": \"BVLOS\"\n        },\n        {\n          \"NSTS\": \"NSTS-07\",\n          \"weight_limit\": \"do 25 kg\",\n          \"aircraft_types\": [\n            \"A\"\n          ],\n          \"additional_info\": \"BVLOS\"\n        },\n        {\n          \"NSTS\": \"NSTS-08\",\n          \"weight_limit\": \"do 25 kg\",\n          \"aircraft_types\": [\n            \"H\"\n          ],\n          \"additional_info\": \"BVLOS\"\n        }\n      ]\n    }\n  }\n}"
   },
   {
     "pytanie": "Model sera szwajcarskiego zakłada, że aby doszło do wypadku:",
@@ -371,7 +403,8 @@
       "d": "wystarczy jedna “dziura” w danym szczeblu, aby doszło do wypadku lotniczego"
     },
     "poprawna_odpowiedz": "c",
-    "wyjasnienie": "Model sera szwajcarskiego ilustruje, że wypadki lotnicze są zwykle wynikiem kumulacji wielu czynników i błędów na różnych poziomach systemu."
+    "wyjasnienie": "Model sera szwajcarskiego ilustruje, że wypadki lotnicze są zwykle wynikiem kumulacji wielu czynników i błędów na różnych poziomach systemu.",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Skrót STS wskazuje na:",
@@ -382,7 +415,8 @@
       "d": "krajowy scenariusz standardowy wykorzystywany w kategorii szczególnej"
     },
     "poprawna_odpowiedz": "c",
-    "wyjasnienie": ""
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Kategoria otwarta charakteryzuje się:",
@@ -393,7 +427,8 @@
       "d": " posiadania instrukcji operacyjnej posiadanej przez pilota BSP"
     },
     "poprawna_odpowiedz": "a",
-    "wyjasnienie": ""
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Zaznacz pełną nazwę strefy ATZ:",
@@ -404,7 +439,8 @@
       "d": "strefa ruchu kontrolowanego"
     },
     "poprawna_odpowiedz": "a",
-    "wyjasnienie": ""
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Warunkiem wykonania lotów VLOS w strefie ATZ jest:",
@@ -415,7 +451,8 @@
       "d": "lot nie jest możliwy dla bezzałogoeych statków powietrznych"
     },
     "poprawna_odpowiedz": "c",
-    "wyjasnienie": ""
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Warunkiem wykonywania lotów VLOS w strefie RMZ jest:",
@@ -426,7 +463,8 @@
       "d": "poinformowanie służby informacji powietrznej"
     },
     "poprawna_odpowiedz": "d",
-    "wyjasnienie": "RMZ - Radio Communication Mandatory Zone - strefa obowiązkowej łączności"
+    "wyjasnienie": "RMZ - Radio Communication Mandatory Zone - strefa obowiązkowej łączności",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Warunkiem wykonywania lotów VLOS w strefie DRA-R (CTR) jest:",
@@ -437,7 +475,8 @@
       "d": "tylko poinformowanie służby informacji powietrznej"
     },
     "poprawna_odpowiedz": "b",
-    "wyjasnienie": ""
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Lot niesprawnym technicznie dronem jest możliwy:",
@@ -448,7 +487,8 @@
       "d": "jest zabroniony"
     },
     "poprawna_odpowiedz": "d",
-    "wyjasnienie": "Eksploatacja niesprawnego technicznie drona jest niedozwolona i stwarza poważne zagrożenie."
+    "wyjasnienie": "Eksploatacja niesprawnego technicznie drona jest niedozwolona i stwarza poważne zagrożenie.",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Kiedy ma miejsce wypadek lotniczy:",
@@ -459,7 +499,8 @@
       "d": "wszystkie odpowiedzi są prawidłowe"
     },
     "poprawna_odpowiedz": "d",
-    "wyjasnienie": ""
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Który organ zarządza ruchem lotniczym w FIR EPWW?:",
@@ -470,7 +511,8 @@
       "d": "zarządca strefy"
     },
     "poprawna_odpowiedz": "a",
-    "wyjasnienie": ""
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Który dokument określa zasady udostępniania na rynku oraz swobodnego przepływu w UE bezzałogowych systemów powietrznych przeznaczonych do eksploatacji w ramach kategorii “otwartej” i dodatkowych elementów służących zdalnej identyfikacji?",
@@ -481,7 +523,8 @@
       "d": "Rozporządzenie Ministra Transportu"
     },
     "poprawna_odpowiedz": "a",
-    "wyjasnienie": ""
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Co to jest EASA 🇪🇺:",
@@ -492,7 +535,8 @@
       "d": "European Aviation Safety Agency"
     },
     "poprawna_odpowiedz": "d",
-    "wyjasnienie": "🇪🇺 EASA to Europejska Agencja Bezpieczeństwa Lotniczego, odpowiedzialna za bezpieczeństwo lotnictwa cywilnego w Europie."
+    "wyjasnienie": "🇪🇺 EASA to Europejska Agencja Bezpieczeństwa Lotniczego, odpowiedzialna za bezpieczeństwo lotnictwa cywilnego w Europie.",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "AIP to:",
@@ -504,7 +548,8 @@
       "e": "Czasowy plan użytkowania przestrzeni powietrznej"
     },
     "poprawna_odpowiedz": "d",
-    "wyjasnienie": ""
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Jakie zadania należą do EASA 🇪🇺:",
@@ -515,7 +560,8 @@
       "d": "Obrony Europy przed Rosją"
     },
     "poprawna_odpowiedz": "a",
-    "wyjasnienie": "🇪🇺"
+    "wyjasnienie": "🇪🇺",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "PAŻP (PANSA) prowadzi rejestr:",
@@ -526,7 +572,8 @@
       "d": "Lotnisk"
     },
     "poprawna_odpowiedz": "c",
-    "wyjasnienie": "PAŻP (PANSA) prowadzi rejestr przestrzeni powietrznej"
+    "wyjasnienie": "PAŻP (PANSA) prowadzi rejestr przestrzeni powietrznej",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Incydenty/wypadki lotnicze zgłaszamy",
@@ -537,7 +584,8 @@
       "d": "Telefonicznie do wieży najbliższego lotniska"
     },
     "poprawna_odpowiedz": "b",
-    "wyjasnienie": ""
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "ULC rozwiń skrót:",
@@ -548,7 +596,8 @@
       "d": "Urząd lotnictwa cywilnego"
     },
     "poprawna_odpowiedz": "d",
-    "wyjasnienie": ""
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Wysokość maksymalna dla jakiej można latać w ramach NSTS-01:",
@@ -559,7 +608,8 @@
       "d": "Bez ograniczeń"
     },
     "poprawna_odpowiedz": "b",
-    "wyjasnienie": ""
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "W NSTS 05 można wykonywać loty:",
@@ -570,7 +620,8 @@
       "d": "BVLOS, BSP do 25 kg"
     },
     "poprawna_odpowiedz": "b",
-    "wyjasnienie": ""
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Dolna granica wieku dla pilota BSP:",
@@ -581,7 +632,8 @@
       "d": "18 lat"
     },
     "poprawna_odpowiedz": "b",
-    "wyjasnienie": ""
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Wykonując lot vlos lub bvlos bezzałogowcem większym niż 1 m",
@@ -592,7 +644,8 @@
       "d": "Lot wykonujemy na obszarem słabo zaludnionym"
     },
     "poprawna_odpowiedz": "c",
-    "wyjasnienie": ""
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Czy podczas lotów można przewozić materiały niebezpieczne",
@@ -603,7 +656,8 @@
       "d": "Nie można przewozić materiałów niebezpiecznych"
     },
     "poprawna_odpowiedz": "d",
-    "wyjasnienie": ""
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Operacje z użyciem SBSP zgodnie z NSTS-01 wykonujemy:",
@@ -614,7 +668,7 @@
       "d": "Niezgodnie z instrukcją operacyjną"
     },
     "poprawna_odpowiedz": "a",
-    "wyjasnienie": "{\n  \"explanations\": {\n    \"VLOS\": {\n      \"description\": \"Lot w zasięgu wzroku (Visual Line of Sight), do 120m AGL (aż go widać)\",\n      \"scenarios\": [\n        {\n          \"NSTS\": \"01\",\n          \"weight_limit\": \"do 4 kg\",\n          \"aircraft_types\": [\n            \"MR\",\n            \"A\",\n            \"H\"\n          ],\n          \"additional_info\": \"FPV do 50 m AGL w poziomie 500 m\"\n        },\n        {\n          \"NSTS\": \"02\",\n          \"weight_limit\": \"do 25 kg\",\n          \"aircraft_types\": [\n            \"MR\"\n          ]\n        },\n        {\n          \"NSTS\": \"03\",\n          \"weight_limit\": \"do 25 kg\",\n          \"aircraft_types\": [\n            \"A\"\n          ]\n        },\n        {\n          \"NSTS\": \"04\",\n          \"weight_limit\": \"do 25 kg\",\n          \"aircraft_types\": [\n            \"H\"\n          ]\n        }\n      ]\n    },\n    \"BVLOS\": {\n      \"description\": \"Lot poza zasięgiem wzroku (Beyond Visual Line of Sight), do 120m AGL, do 2 km (bez obserwatora)\",\n      \"scenarios\": [\n        {\n          \"NSTS\": \"05\",\n          \"weight_limit\": \"do 4 kg\",\n          \"aircraft_types\": [\n            \"MR\",\n            \"A\",\n            \"H\"\n          ]\n        },\n        {\n          \"NSTS\": \"06\",\n          \"weight_limit\": \"do 25 kg\",\n          \"aircraft_types\": [\n            \"MR\"\n          ]\n        },\n        {\n          \"NSTS\": \"07\",\n          \"weight_limit\": \"do 25 kg\",\n          \"aircraft_types\": [\n            \"A\"\n          ]\n        },\n        {\n          \"NSTS\": \"08\",\n          \"weight_limit\": \"do 25 kg\",\n          \"aircraft_types\": [\n            \"H\"\n          ]\n        }\n      ]\n    }\n  }\n}"
+    "wyjasnienie_tabela": "{\n  \"explanations\": {\n    \"VLOS\": {\n      \"description\": \"Lot w zasięgu wzroku (Visual Line of Sight), do 120m AGL (aż go widać)\",\n      \"scenarios\": [\n        {\n          \"NSTS\": \"01\",\n          \"weight_limit\": \"do 4 kg\",\n          \"aircraft_types\": [\n            \"MR\",\n            \"A\",\n            \"H\"\n          ],\n          \"additional_info\": \"VLOS, FPV do 50 m AGL w poziomie 500 m\"\n        },\n        {\n          \"NSTS\": \"02\",\n          \"weight_limit\": \"do 25 kg\",\n          \"aircraft_types\": [\n            \"MR\"\n          ]\n        \"additional_info\": \"VLOS\"\n        },\n        {\n          \"NSTS\": \"03\",\n          \"weight_limit\": \"do 25 kg\",\n          \"aircraft_types\": [\n            \"A\"\n          ]\n        \"additional_info\": \"VLOS\"\n        },\n        {\n          \"NSTS\": \"04\",\n          \"weight_limit\": \"do 25 kg\",\n          \"aircraft_types\": [\n            \"H\"\n          ]\n        }\n      ]\n    \"additional_info\": \"VLOS\"\n        },\n    \"BVLOS\": {\n      \"description\": \"Lot poza zasięgiem wzroku (Beyond Visual Line of Sight), do 120m AGL, do 2 km (bez obserwatora)\",\n      \"scenarios\": [\n        {\n          \"NSTS\": \"05\",\n          \"weight_limit\": \"do 4 kg\",\n          \"aircraft_types\": [\n            \"MR\",\n            \"A\",\n            \"H\"\n          ]\n        \"additional_info\": \"BVLOS\"\n        },\n        {\n          \"NSTS\": \"06\",\n          \"weight_limit\": \"do 25 kg\",\n          \"aircraft_types\": [\n            \"MR\"\n          ]\n        \"additional_info\": \"BVLOS\"\n        },\n        {\n          \"NSTS\": \"07\",\n          \"weight_limit\": \"do 25 kg\",\n          \"aircraft_types\": [\n            \"A\"\n          ]\n        \"additional_info\": \"BVLOS\"\n        },\n        {\n          \"NSTS\": \"08\",\n          \"weight_limit\": \"do 25 kg\",\n          \"aircraft_types\": [\n            \"H\"\n          ]\n        \"additional_info\": \"BVLOS\"\n        }\n      ]\n    }\n  }\n}"
   },
   {
     "pytanie": "Tryb niskiej prędkości charakteryzuje się prędkością BSP:",
@@ -625,7 +679,8 @@
       "d": "3 m/s"
     },
     "poprawna_odpowiedz": "d",
-    "wyjasnienie": ""
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Czy w lotach w kategorii “szczególnej” wymagana jest instrukcja operacyjna:",
@@ -636,7 +691,8 @@
       "d": "Tak, przy każdym scenariuszu NSTS"
     },
     "poprawna_odpowiedz": "c",
-    "wyjasnienie": ""
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Czy w locie FPV zachowujemy następujące warunki:",
@@ -647,7 +703,8 @@
       "d": "w odległości poziomej nie większej niż 400 m od pilota"
     },
     "poprawna_odpowiedz": "c",
-    "wyjasnienie": ""
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Czy jest obowiązkowe ubezpieczenie OC dla pilota BSP:",
@@ -658,7 +715,8 @@
       "d": "Tylko dla lotów SBSP powyżej 20 kg"
     },
     "poprawna_odpowiedz": "d",
-    "wyjasnienie": ""
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Prze jaki system wykonujemy Check-in przed lotem BSP?",
@@ -669,7 +727,8 @@
       "d": "UTM Pansa"
     },
     "poprawna_odpowiedz": "a",
-    "wyjasnienie": "DroneTower na stronie checkin.pansa.pl pobierzemy program to system teleinformatyczny (platforma) stworzona przez Polską Agencję Żeglugi Powietrznej (PANSA) dedykowany operatorom bezzałogowych statków powietrznych (BSP), umożliwiający m.in. sprawdzenie warunków wykonywania lotów, zgłaszanie zamiaru wykonania operacji lotniczych oraz dostęp do niezbędnych informacji lotniczych."
+    "wyjasnienie": "DroneTower na stronie checkin.pansa.pl pobierzemy program to system teleinformatyczny (platforma) stworzona przez Polską Agencję Żeglugi Powietrznej (PANSA) dedykowany operatorom bezzałogowych statków powietrznych (BSP), umożliwiający m.in. sprawdzenie warunków wykonywania lotów, zgłaszanie zamiaru wykonania operacji lotniczych oraz dostęp do niezbędnych informacji lotniczych.",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Czy w kategorii szczególnej musimy zamieszczać numer operatora na ABSP:",
@@ -680,7 +739,8 @@
       "d": "W zależności od wykonywanej misji"
     },
     "poprawna_odpowiedz": "b",
-    "wyjasnienie": ""
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Co to jest NOTAM?",
@@ -692,7 +752,8 @@
       "e": "Pilotów dronów nie obowiązują NOTAM"
     },
     "poprawna_odpowiedz": "a",
-    "wyjasnienie": "NOTAM to krótka tekstowa wiadomość, rozpowszechniana za pomocą środków telekomunikacyjnych, zawierająca informacje o ustanowieniu, stanie lub zmianach urządzeń lotniczych, służb, procedur lub o niebezpieczeństwach, których znajomość we właściwym czasie jest niezbędna dla personelu związanego z operacjami lotniczymi."
+    "wyjasnienie": "NOTAM to krótka tekstowa wiadomość, rozpowszechniana za pomocą środków telekomunikacyjnych, zawierająca informacje o ustanowieniu, stanie lub zmianach urządzeń lotniczych, służb, procedur lub o niebezpieczeństwach, których znajomość we właściwym czasie jest niezbędna dla personelu związanego z operacjami lotniczymi.",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Co to jest TWR?",
@@ -703,7 +764,8 @@
       "d": "Służba kontroli lotniska"
     },
     "poprawna_odpowiedz": "d",
-    "wyjasnienie": "TWR (Tower) to jednostka kontroli ruchu lotniczego zlokalizowana na lotnisku, odpowiedzialna za zapewnienie bezpiecznego i uporządkowanego ruchu statków powietrznych oraz pojazdów na polu manewrowym i w jego bezpośrednim sąsiedztwie."
+    "wyjasnienie": "TWR (Tower) to jednostka kontroli ruchu lotniczego zlokalizowana na lotnisku, odpowiedzialna za zapewnienie bezpiecznego i uporządkowanego ruchu statków powietrznych oraz pojazdów na polu manewrowym i w jego bezpośrednim sąsiedztwie.",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Co to jest ATC?",
@@ -714,7 +776,8 @@
       "d": "Służba kontroli lotniska"
     },
     "poprawna_odpowiedz": "b",
-    "wyjasnienie": "ATC - Air Traffic Control, Służby Kontroli Ruchu Lotniczego, to: ATC jest to służba ustanowiona w celu zapobiegania zderzeniom między statkami powietrznymi, zarówno w locie, jak i na lotniskach, oraz w celu utrzymania uporządkowanego przepływu ruchu lotniczego i jego usprawnienia. ❗W skrócie, ATC odpowiada za bezpieczne i efektywne zarządzanie ruchem lotniczym w przestrzeni powietrznej i na lotniskach."
+    "wyjasnienie": "ATC - Air Traffic Control, Służby Kontroli Ruchu Lotniczego, to: ATC jest to służba ustanowiona w celu zapobiegania zderzeniom między statkami powietrznymi, zarówno w locie, jak i na lotniskach, oraz w celu utrzymania uporządkowanego przepływu ruchu lotniczego i jego usprawnienia. ❗W skrócie, ATC odpowiada za bezpieczne i efektywne zarządzanie ruchem lotniczym w przestrzeni powietrznej i na lotniskach.",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Gdy dwa statki powietrzne zbliżają się do siebie na kierunkach przeciwnych lub prawie przeciwnych i grozi to niebezpieczeństwem zdarzenia, pilot dowódca każdego z nich zmienia swój kurs w którą stronę?",
@@ -725,7 +788,8 @@
       "d": "W lewo"
     },
     "poprawna_odpowiedz": "b",
-    "wyjasnienie": "Zawsze w prawo 🙂 ╰┈➤"
+    "wyjasnienie": "Zawsze w prawo 🙂 ╰┈➤",
+    "wyjasnienie_tabela": ""
   },
   {
     "pytanie": "Badania lekarkie są obowiązkowe dla pilota BSP:",
@@ -736,6 +800,7 @@
       "d": "Tak, oczywiście są one obowiązkowe"
     },
     "poprawna_odpowiedz": "a",
-    "wyjasnienie": ""
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
   }
 ]
