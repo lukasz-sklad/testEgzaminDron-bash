@@ -12,6 +12,30 @@
     "wyjasnienie_tabela": ""
   },
   {
+    "pytanie": "Która z poniższych stref jest strefą z zakazem lotów BSP?",
+    "odpowiedzi": {
+      "a": "CTR",
+      "b": "DRA-I",
+      "c": "DRA-T",
+      "d": "DRA-P"
+    },
+    "poprawna_odpowiedz": "d",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Bezpieczna odległość to:",
+    "odpowiedzi": {
+      "a": "100 metrów",
+      "b": "Odległość nie zdefiniowana w przepisach",
+      "c": "Odległość bezzałogowego statku powietrznego od innych statków powietrznych, przeszkód, osób lub zwierząt, umożliwiającą uniknięcie kolizji, wynikającą z analizy panujących warunków meteorologicznych, otoczenia i przeszkód znajdujących się w obszarze wykonywania lotów oraz rodzaju używanego bezzałogowego statku powietrznego i kwalifikacji operatora",
+      "d": "20 metrów"
+    },
+    "poprawna_odpowiedz": "c",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
     "pytanie": "Kto odpowiada za stan techniczny drona?",
     "odpowiedzi": {
       "a": "pilot/operator BSP",
@@ -21,6 +45,18 @@
     },
     "poprawna_odpowiedz": "a",
     "wyjasnienie": "Pilot lub operator Bezzałogowego Statku Powietrznego (BSP) jest odpowiedzialny za upewnienie się, że dron jest w dobrym stanie technicznym przed każdym lotem.",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Temperatura silnika powyżej 80 stopni C może doprowadzić do:",
+    "odpowiedzi": {
+      "a": "Wybuchu akumulatora",
+      "b": "Rozmagnesowania magnesów silnika",
+      "c": "Spalenia silnika",
+      "d": "Połamania śmigieł"
+    },
+    "poprawna_odpowiedz": "b",
+    "wyjasnienie": "",
     "wyjasnienie_tabela": ""
   },
   {
@@ -45,6 +81,30 @@
     },
     "poprawna_odpowiedz": "a",
     "wyjasnienie": "Ostateczną odpowiedzialność za bezpieczeństwo lotu BSP ponosi zawsze pilot.",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Wskaż strefę ograniczoną:",
+    "odpowiedzi": {
+      "a": "P",
+      "b": "CTR",
+      "c": "G",
+      "d": "R"
+    },
+    "poprawna_odpowiedz": "d",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Czy można odbywać lot BSP w gęstej mgle?",
+    "odpowiedzi": {
+      "a": "Tak, nie wpływa na lot, szkoda marnować pięknych ujęć",
+      "b": "Nie, należy zrezygnować z lotu w przypadku mgły i dużej wilgotności",
+      "c": "Tak, mgła wpływa tylko nawidoczność BSP",
+      "d": "tak, mgła wydłuża zasięg działania BSP, sprzyja lataniu"
+    },
+    "poprawna_odpowiedz": "b",
+    "wyjasnienie": "",
     "wyjasnienie_tabela": ""
   },
   {
@@ -84,6 +144,30 @@
     "wyjasnienie_tabela": ""
   },
   {
+    "pytanie": "Co to jest CTR?",
+    "odpowiedzi": {
+      "a": "Przestrzeń kontrolowana ruchu lotniskowego",
+      "b": "Strefa kontrolowana lotniska",
+      "c": "Wieża kontroli lotów",
+      "d": "Strefa ruch lotniskowego"
+    },
+    "poprawna_odpowiedz": "b",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Strefy dzielimy na struktury:",
+    "odpowiedzi": {
+      "a": "Tylko elastyczne",
+      "b": "Wojskowe i Cywilne",
+      "c": "Stałe i elastyczne",
+      "d": "Warszawa i Poznań"
+    },
+    "poprawna_odpowiedz": "c",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
     "pytanie": "W sytuacji niebezpiecznej, gdy dwa SP lecą na siebie czołowo, dowódcy SP powinni wykonać uniki:",
     "odpowiedzi": {
       "a": "każdy w prawo",
@@ -96,6 +180,18 @@
     "wyjasnienie_tabela": ""
   },
   {
+    "pytanie": "Czy możemy wykonywać lot w parku narodowym:",
+    "odpowiedzi": {
+      "a": "ak, pod warunkiem uiszczenia odpowiedniej opłaty",
+      "b": "Nie mamy takiej możliwości aby wykonać tam lot",
+      "c": "Tak, za zgodą zarządzających strefą R",
+      "d": "Tak, w strefie R nie wymaga się dodatkowej zgody"
+    },
+    "poprawna_odpowiedz": "c",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
     "pytanie": "Przez kogo powoływany jest niezależny organ PKBWL?",
     "odpowiedzi": {
       "a": "prezes ULC",
@@ -104,6 +200,18 @@
       "d": "premiera"
     },
     "poprawna_odpowiedz": "c",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Przez jaki system składamy plan lotu w CTR:",
+    "odpowiedzi": {
+      "a": "UTM Pansa",
+      "b": "FIS",
+      "c": "AIP",
+      "d": "Papierowo do PAŻP"
+    },
+    "poprawna_odpowiedz": "a",
     "wyjasnienie": "",
     "wyjasnienie_tabela": ""
   },
@@ -129,6 +237,18 @@
     },
     "poprawna_odpowiedz": "a",
     "wyjasnienie": "P (równolegle)=parallel >pojemność, S (szeregowe)=serial >napięcie, 🤔 3S 12.6V, naładowana 4.2V (+0.5V), napięcie nominalne 3.7V, rozładowane ogniwo 3.2V (-0.5V)",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Magnetometr",
+    "odpowiedzi": {
+      "a": "Kalibrujemy przed i po zmianie baterii",
+      "b": "Nie ma konieczności kalibracji bez wezwania aplikacji",
+      "c": "Kalibrujemy przed każdym lotem",
+      "d": "Kalibrujemy po znacznej zmianie lokalizacji startu"
+    },
+    "poprawna_odpowiedz": "d",
+    "wyjasnienie": "",
     "wyjasnienie_tabela": ""
   },
   {
@@ -168,6 +288,18 @@
     "wyjasnienie_tabela": ""
   },
   {
+    "pytanie": "Czy można wykonywać lot BSP pod wpływem alkocholu?",
+    "odpowiedzi": {
+      "a": "Tak, ale poniżej 0.5 promila w wydychanym powietrzu",
+      "b": "Trzymaj piwo i patrz na to",
+      "c": "Tak prawo tego nie zabrania",
+      "d": "Nie, jest to kategorycznie zabronione"
+    },
+    "poprawna_odpowiedz": "d",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
     "pytanie": "Kiedy należy balansować pakiety LiPo?",
     "odpowiedzi": {
       "a": "po każdym ładowaniu",
@@ -201,6 +333,18 @@
     },
     "poprawna_odpowiedz": "b",
     "wyjasnienie": "BVLOS (bez obserwatora) 2 km, w zasięgu wzroku VLOS aż widać drona 🙂 okiem nie uzbrojonym",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Czy można przedawkować kofeinę?",
+    "odpowiedzi": {
+      "a": "Kofeina nie da się przedawkować",
+      "b": "Nie",
+      "c": "Tak",
+      "d": "Człowiek jest odporny na działanie kofeiny"
+    },
+    "poprawna_odpowiedz": "c",
+    "wyjasnienie": "",
     "wyjasnienie_tabela": ""
   },
   {
@@ -431,6 +575,18 @@
     "wyjasnienie_tabela": ""
   },
   {
+    "pytanie": "Co jaki czas wykonujemy kontrolę stanu technicznego BSP:",
+    "odpowiedzi": {
+      "a": "Tylko przy pierwszym uruchomieniu po zakupie",
+      "b": "Tylko przed pierwszym startem",
+      "c": "Przed startem i po lądowaniu",
+      "d": "Raz w tygodniu"
+    },
+    "poprawna_odpowiedz": "c",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
     "pytanie": "Zaznacz pełną nazwę strefy ATZ:",
     "odpowiedzi": {
       "a": "strefa ruchu lotniskowego",
@@ -503,12 +659,48 @@
     "wyjasnienie_tabela": ""
   },
   {
+    "pytanie": "Najczęstszą przyczyną wypadków lotniczych:",
+    "odpowiedzi": {
+      "a": "Awaria BSP",
+      "b": "Nie ma wypadków lotniczych, są tylko katastrofy",
+      "c": "Przez ptaki",
+      "d": "Czynnik ludzki"
+    },
+    "poprawna_odpowiedz": "d",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
     "pytanie": "Który organ zarządza ruchem lotniczym w FIR EPWW?:",
     "odpowiedzi": {
       "a": "PAŻP",
       "b": "ULC",
       "c": "FIS",
       "d": "zarządca strefy"
+    },
+    "poprawna_odpowiedz": "a",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "O wypadku lotniczym mówimy gdy:",
+    "odpowiedzi": {
+      "a": "Doszło do uszczerbku na zdrowiu",
+      "b": "Doszło do kolizji z innym uczestnikiem ruchu lotniczego",
+      "c": "Wszystkie odpowiedzi są prawidłowe",
+      "d": "Nastąpiła trwała utrata kontroli nad BSP, który się prawdobodobnie rozbił"
+    },
+    "poprawna_odpowiedz": "c",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Do czynności wykonywanych przez FIS należy:",
+    "odpowiedzi": {
+      "a": "Służba informacji powietrznej",
+      "b": "Publikowanie map lotniczych",
+      "c": "Wydawania zgody na lot w strefie RMZ",
+      "d": "Kontrolowania dokumentacji lotniczej"
     },
     "poprawna_odpowiedz": "a",
     "wyjasnienie": "",
@@ -539,6 +731,18 @@
     "wyjasnienie_tabela": ""
   },
   {
+    "pytanie": "Prędkość wiatru",
+    "odpowiedzi": {
+      "a": "Wydłuża czas lotu",
+      "b": "SBSP jest odporny na wiatr",
+      "c": "Wraz z wysokością przeważnie rośnie",
+      "d": "NIe ma wpływu na lot BSP"
+    },
+    "poprawna_odpowiedz": "c",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
     "pytanie": "AIP to:",
     "odpowiedzi": {
       "a": "Publikacja wydawana przez Państwo lub z jego upoważnienia",
@@ -548,6 +752,18 @@
       "e": "Czasowy plan użytkowania przestrzeni powietrznej"
     },
     "poprawna_odpowiedz": "d",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Lot na zbyt dużą odległość ma wpływ na:",
+    "odpowiedzi": {
+      "a": "Pogorszenie łączności między BSP, a aparaturą",
+      "b": "Pogorszenie postrzegania orientacji BSP względem pilota",
+      "c": "Odległość w żadnym stopniu nie wpływa na lot",
+      "d": "Polepszoną widoczność jak i łączność z BSP"
+    },
+    "poprawna_odpowiedz": "a",
     "wyjasnienie": "",
     "wyjasnienie_tabela": ""
   },
@@ -576,6 +792,18 @@
     "wyjasnienie_tabela": ""
   },
   {
+    "pytanie": "Aktywność słoneczna ma wpływ na:",
+    "odpowiedzi": {
+      "a": "Aktywność słoneczna nie wpływa na SBSP",
+      "b": "Poprawia łączność i wizję",
+      "c": "Łączność TX z RX oraz działanie modułu GPS",
+      "d": "Jakość obrazu w GS"
+    },
+    "poprawna_odpowiedz": "c",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
     "pytanie": "Incydenty/wypadki lotnicze zgłaszamy",
     "odpowiedzi": {
       "a": "Telefonicznie pod numer 112",
@@ -584,6 +812,30 @@
       "d": "Telefonicznie do wieży najbliższego lotniska"
     },
     "poprawna_odpowiedz": "b",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "W strefie ADIZ lot jest możliwy gdy skontaktujemy się z?",
+    "odpowiedzi": {
+      "a": "Odpowiednim oddziałem straży granicznej",
+      "b": "FIS",
+      "c": "ULC",
+      "d": "PAŻP"
+    },
+    "poprawna_odpowiedz": "a",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Czy w strefie G można wykonywać loty?",
+    "odpowiedzi": {
+      "a": "Tak, po złożeniu planu lotu",
+      "b": "Nie",
+      "c": "Tak",
+      "d": "Tak, po uzyskaniu zezwolenia"
+    },
+    "poprawna_odpowiedz": "c",
     "wyjasnienie": "",
     "wyjasnienie_tabela": ""
   },
@@ -600,12 +852,60 @@
     "wyjasnienie_tabela": ""
   },
   {
+    "pytanie": "Art. 178a. kk § 1. Kto, znajdując się w stanie nietrzeźwości lub pod wpływem środka odurzającego, prowadzi pojazd mechaniczny w ruchu lądowym, wodnym lub powietrznym, podlega grzywnie:",
+    "odpowiedzi": {
+      "a": "Karze ograniczenia wolności albo pozbawienia wolności do lat 2",
+      "b": "Pozbawienia wolności do lat 10",
+      "c": "Nie ma takiego artykułu",
+      "d": "Pozbawienia wolności do lat 1"
+    },
+    "poprawna_odpowiedz": "a",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
     "pytanie": "Wysokość maksymalna dla jakiej można latać w ramach NSTS-01:",
     "odpowiedzi": {
       "a": "150m AGL",
       "b": "120 AGL",
       "c": "W zależności od miejsca startu",
       "d": "Bez ograniczeń"
+    },
+    "poprawna_odpowiedz": "b",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Uprawnienia NSTS 06 dają możliwości lotu:",
+    "odpowiedzi": {
+      "a": "w zasięgu wzroku do 35 kg",
+      "b": "poza zasięgiem wzroku do 30 kg",
+      "c": "w zasięgu wzroku do 30 kg",
+      "d": "poza zasięgiem wzroku do 25 kg"
+    },
+    "poprawna_odpowiedz": "d",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Z jakimi dokumentami musimy zapoznać się przed lotem?",
+    "odpowiedzi": {
+      "a": "AIP, AUP, NOTAM",
+      "b": "Mapą miasta",
+      "c": "Mapą geodezyjną",
+      "d": "Mapą Polski"
+    },
+    "poprawna_odpowiedz": "a",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Gdy pilot BSP nie czuje się na siłach?:",
+    "odpowiedzi": {
+      "a": "Może wykonywać lot",
+      "b": "Nie powinien wykonywać czynności i operacji lotniczych",
+      "c": "Może wykonywać lot w obecności obserwatora",
+      "d": "Farmakologia wszystko załatwi"
     },
     "poprawna_odpowiedz": "b",
     "wyjasnienie": "",
@@ -620,6 +920,30 @@
       "d": "BVLOS, BSP do 25 kg"
     },
     "poprawna_odpowiedz": "b",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Kiedy nie można wykonywać czynności lotniczych?",
+    "odpowiedzi": {
+      "a": "Pod wpływem alkocholu",
+      "b": "Podczas silnego stresu",
+      "c": "Pod wpływem środków odurzających",
+      "d": "Wszyskie z powyższych są prawidłowymi odpowiedziami"
+    },
+    "poprawna_odpowiedz": "d",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Ile jest sektorów FIS:",
+    "odpowiedzi": {
+      "a": "7",
+      "b": "10",
+      "c": "6",
+      "d": "4"
+    },
+    "poprawna_odpowiedz": "d",
     "wyjasnienie": "",
     "wyjasnienie_tabela": ""
   },
@@ -654,6 +978,18 @@
       "b": "To zależy od okoliczności",
       "c": "Tak",
       "d": "Nie można przewozić materiałów niebezpiecznych"
+    },
+    "poprawna_odpowiedz": "d",
+    "wyjasnienie": "",
+    "wyjasnienie_tabela": ""
+  },
+  {
+    "pytanie": "Do substancji psychoaktywnych zaliczyć można:",
+    "odpowiedzi": {
+      "a": "Makowiec",
+      "b": "Sernik na zimno",
+      "c": "Ciasto drożdżowe",
+      "d": "Alkochol, Nikotynę, Psychostymulanty (kofeina), Marihuanę"
     },
     "poprawna_odpowiedz": "d",
     "wyjasnienie": "",
